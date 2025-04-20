@@ -53,10 +53,4 @@ His background includes data analysis for sub-national budgets, economic modelin
 
 ## Course Assessment
 
-See the [Scoring Rubric](scoring-rubric.md) for detailed information on how this course is assessed, including our flexible scoring system designed to reward engagement and public sharing of work.
-
-## Resources
-
-* Cloud Platform Free Tiers (AWS, GCP, Azure)
-* Practice datasets (subtitles, comments, scene descriptions)
-* NLP Toolkits (spaCy, Hugging Face, Cloud NLP APIs) 
+See the [Scoring Rubric](scoring-rubric.md) for detailed information on how this course is assessed, including our flexible scoring system designed to reward engagement and public sharing of work. 
