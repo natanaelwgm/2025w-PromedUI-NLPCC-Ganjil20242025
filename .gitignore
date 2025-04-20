@@ -15,4 +15,5 @@ Gemfile.lock
 *.gem
 *.rbc
 *.swp
-.DS_Store 
+.DS_Store
+waranProfile.txt
