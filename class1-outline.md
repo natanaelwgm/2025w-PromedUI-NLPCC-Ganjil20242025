@@ -43,7 +43,8 @@ GitHub is a web-based platform for version control using Git. It's essential for
 * **Collaboration:** Fork repositories to create your own copy, make changes, and propose them back using Pull Requests.
 
 **Recommended Resources:**
-* **Video:** [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
+* **Video:** [Git for Dummies](https://www.youtube.com/watch?v=mJ-qvsxPHpY)
+[Git and GitHub for Beginners using Application](https://www.youtube.com/watch?v=MaqVvXv6zrU)
 * **Interactive Tutorial:** [GitHub Skills](https://skills.github.com/) (Hands-on labs to learn Git and GitHub)
 * **Documentation:** [GitHub Docs - Quickstart](https://docs.github.com/en/get-started/quickstart)
 * **Action:** Create a free GitHub account and try creating your first repository.
