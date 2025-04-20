@@ -24,8 +24,8 @@ Large Language Models (LLMs) like ChatGPT (from OpenAI) and Gemini (from Google)
 
 **Recommended Resources:**
 * **Video:** [ChatGPT Tutorial for Beginners](https://www.youtube.com/watch?v=JTxsNm9IdYU) (Covers general concepts applicable to Gemini too)
-* **Video:** [Google Gemini Tutorial for Beginners](https://www.youtube.com/watch?v=EMN7QJW0GkE)
-* **Article:** [Google's Gemini: A Guide for Beginners](https://blog.google/technology/ai/google-gemini-ai/)
+* **Video:** [Google Gemini Tutorial for Beginners](https://www.youtube.com/watch?v=RxCZhltR9Cw)
+* **Article:** [Google's Gemini: A Guide for Beginners](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/)
 * **Practice:** Experiment! Ask questions related to topics you know, try different prompt styles, and see how they respond.
 
 ---
