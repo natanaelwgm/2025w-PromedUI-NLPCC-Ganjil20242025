@@ -39,6 +39,10 @@ Welcome to this practical course on Natural Language Processing for media profes
   * Combine text and visual analysis
   * Design agentic pipelines for media workflow automation
 
+## Course Assessment
+
+See the [Scoring Rubric](scoring-rubric.md) for detailed information on how this course is assessed, including our flexible scoring system designed to reward engagement and public sharing of work.
+
 ## Resources
 
 * Cloud Platform Free Tiers (AWS, GCP, Azure)
