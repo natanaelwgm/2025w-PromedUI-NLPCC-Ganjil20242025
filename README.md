@@ -1,12 +1,12 @@
-# NLP with Cloud Tools - Course Materials Repo
+# NLP in Media Production with Cloud Tools - Course Materials
 
-This repository contains outlines, readings, and supplementary materials for the NLP with Cloud Tools course.
+This repository contains outlines, readings, and supplementary materials for the "NLP in Media Production with Cloud Tools" course.
 
 ## Structure
 
-* `index.md`: Course homepage (links to outlines/materials)
-* `classX-outline.md`: Outline for each class.
-* `materials/`: Folder containing supplementary readings and resources like `cloud-intro.md`.
+* `index.md`: Course homepage with complete course outline
+* `classX-outline.md`: Detailed outline for each class session
+* `materials/`: Folder containing supplementary readings and resources
 
 ## Deployment
 
