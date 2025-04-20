@@ -64,7 +64,7 @@ Google Colab provides free access to a Jupyter Notebook environment that runs en
 * **Integration:** Easily mounts with your Google Drive to access files.
 
 **Recommended Resources:**
-* **Video:** [Google Colab Tutorial for Beginners](https://www.youtube.com/watch?v=inN8seMm7UI)
+* **Video:** [Google Colab Tutorial for Beginners](https://www.youtube.com/watch?v=RLYoEyIHL6A)
 * **Official Intro:** [Welcome To Colaboratory](https://colab.research.google.com/) (Interactive tour within Colab)
 * **Documentation:** [Overview of Colaboratory Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
 * **Action:** Open Colab, create a new notebook, and try running a simple Python command like `print("Hello, Colab!")`.
@@ -83,7 +83,7 @@ NotebookLM (from Google Labs) is an AI-powered research and writing assistant. Y
 * **Source Grounding:** NotebookLM always cites the specific passages in your uploaded documents that support its answers, making verification easy.
 
 **Recommended Resources:**
-* **Video:** [Introducing NotebookLM](https://www.youtube.com/watch?v=CAFyMr4tVt8)
+* **Video:** [Introducing NotebookLM](https://www.youtube.com/watch?v=EOmgC3-hznM)
 * **Official Guide:** [NotebookLM Guide](https://notebooklm.google.com/guide)
 * **Blog Post:** [NotebookLM: An AI-first notebook grounded in your sources](https://blog.google/technology/ai/notebooklm-google-ai/)
 * **Action:** Try uploading a PDF or pasting some text notes into NotebookLM and ask it a few questions about the content.

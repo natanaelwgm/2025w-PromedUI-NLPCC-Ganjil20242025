@@ -190,7 +190,7 @@ A satisfactory project meets the basic requirements but may lack the polish, com
 
 We understand that unexpected circumstances arise. Please communicate with the instructor as early as possible about potential late submissions. In general:
 * Late submissions may be accepted with appropriate communication.
-* Extremely late work or submissions without prior notice may receive reduced raw points.
+* Extremely late work or submissions without prior notice may receive reduced raw points and will be addressed in a case-by-case basis.
 * Consistent patterns of late work may impact your ability to earn full points.
 
 ### 8. How do I submit my work?
