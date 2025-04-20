@@ -5,129 +5,149 @@ title: Scoring Rubric
 
 # Course Scoring Rubric
 
-This course uses a flexible scoring system designed to reward engagement and public sharing of work. The standard assessment path allows you to earn up to 100 points, while optional activities provide opportunities to earn up to 45 additional points (theoretical maximum: 145 points).
+This course uses a flexible scoring system designed to reward engagement and public sharing of work. The standard assessment path allows you to earn up to 100 weighted points, while optional activities provide opportunities to earn up to 50 additional weighted points (theoretical maximum weighted score: 150 points). Your final grade is calculated based on the total weighted score.
 
 ## Scoring Components
 
-### 1. Participation (20-25 points)
+Weightings are applied to your raw score in each component to determine its contribution to your final grade.
 
-**Base: 20 points**
-* Calculated based on attendance across all 6 class sessions
-* Points are prorated based on the amount of time spent in each class session
-* Each full session attended earns approximately 3.33 points
+### 1. Participation (Weighted Contribution: 20 points base, up to 30 points max)
 
-**Bonus: Up to 5 additional points**
-* Keep your camera ON during class sessions
-* Points are prorated based on the proportion of time your camera is on
-* Example: If class is 90 minutes and your camera is on for 60 minutes, you earn 2/3 of the possible camera-on points for that session
-* Full camera-on attendance for all sessions = maximum 25 points
+This component has a maximum raw score potential of 90 points, but its contribution to the final grade is calculated based on a denominator of 60 points and is weighted at 20%. This means you can achieve up to 150% (90/60) in this category, contributing up to 30 points (1.5 × 20) to your final weighted score.
 
-**Examples:**
-* **Scenario 1:** Student attends all 6 sessions fully = 20 points. Camera on 100% of the time = 5 bonus points. Total: 25 points.
-* **Scenario 2:** Student attends 5 full sessions (16.67 points) and 50% of the 6th session (1.67 points) = 18.34 points. Camera on for 4 full sessions (3.33 points) = Total: 21.67 points.
-* **Scenario 3:** Student attends 4 full sessions but misses 2 sessions completely = 13.33 points. Camera on 75% of the time during those 4 sessions (2.5 points) = Total: 15.83 points.
-* **Scenario 4:** Student attends all sessions but joins 15 minutes late to each 90-minute class (83% attendance) = 16.67 points. Camera on during all attended time = 4.17 bonus points. Total: 20.84 points.
+* **Base Attendance:** Earn 10 raw points for each class session you attend.
+    * Calculated based on attendance across all 6 class sessions.
+    * Points are prorated based on the amount of time spent in each class session (e.g., attending 50% of a session earns 5 raw points).
+    * Attending all 6 sessions fully (camera off) earns 60 raw points.
+* **Camera-On Bonus:** Earn an additional 5 raw points per class session for having your camera fully ON during the session.
+    * Points are prorated based on the proportion of time your camera is on during the session.
+    * Example: If your camera is on for the entire duration of all 6 sessions, you earn an additional 30 raw points (5 points/session × 6 sessions).
 
-### 2. Weekly Tasks (60-90 points)
-
-**Base: 60 points total (10 points per week)**
-* Complete weekly hands-on tasks related to class content
-* Private submissions earn up to 10 points each based on quality and completeness
-
-**Bonus: 1.5× multiplier per task**
-* Make your weekly submissions PUBLIC (blog, GitHub, etc.)
-* Example: A 10-point private submission becomes 15 points when shared publicly
-* Maximum potential: 90 points (15 points × 6 weeks)
+**Calculating Participation Weighted Score:**
+* Your total raw participation score (max 90) is divided by the denominator (60).
+* This result is then multiplied by the category weighting (20 points).
+* Formula: `Weighted Participation Score = (Total Raw Participation Points / 60) * 20`
 
 **Examples:**
-* **Scenario 1:** Student completes all 6 weekly tasks privately with excellent quality (10/10 for each) = 60 points.
-* **Scenario 2:** Student completes 5 private tasks (8/10 quality for each = 40 points) and makes 1 submission public (7/10 quality × 1.5 = 10.5 points) = 50.5 points.
-* **Scenario 3:** Student completes 4 private tasks (9/10 quality for each = 36 points) and shares 2 tasks publicly (10/10 quality × 1.5 for each = 30 points) = 66 points.
-* **Scenario 4:** Student publicly shares all 6 weekly tasks with varying quality (7/10, 8/10, 10/10, 9/10, 10/10, 8/10) = (7+8+10+9+10+8) × 1.5 = 78 points.
+* **Scenario 1:** Student attends all 6 sessions fully (60 raw points) with camera ON 100% of the time (+30 raw points).
+    * Total Raw: 90 points.
+    * Weighted Score: (90 / 60) * 20 = 1.5 * 20 = **30 points**.
+* **Scenario 2:** Student attends 5 full sessions with camera off (50 raw points) and misses 1 session (0 raw points).
+    * Total Raw: 50 points.
+    * Weighted Score: (50 / 60) * 20 = 0.833 * 20 = **16.67 points**.
+* **Scenario 3:** Student attends 4 full sessions with camera ON (15 raw points/session × 4 = 60 raw points) and misses 2 sessions (0 raw points).
+    * Total Raw: 60 points.
+    * Weighted Score: (60 / 60) * 20 = 1.0 * 20 = **20 points**.
+* **Scenario 4:** Student attends all 6 sessions fully (60 raw points), but camera is only ON for 50% of the time across all sessions (+15 raw points).
+    * Total Raw: 75 points.
+    * Weighted Score: (75 / 60) * 20 = 1.25 * 20 = **25 points**.
 
-### 3. Final Project (20-30 points)
+### 2. Weekly Tasks (Weighted Contribution: 60 points base, up to 90 points max)
 
-**Base: 20 points**
-* Create a comprehensive project applying multiple course concepts
-* Private submission earns up to 20 points based on quality and requirements
+This component has a maximum raw score potential of 90 points (15 points/task × 6 tasks), based on a denominator of 60 points (10 points/task × 6 tasks) and weighted at 60%. You can achieve up to 150% (90/60) in this category, contributing up to 90 points (1.5 × 60) to your final weighted score.
 
-**Bonus: 1.5× multiplier**
-* Make your final project PUBLIC (live demo, public repository, detailed blog)
-* Example: A 20-point private project becomes 30 points when shared publicly
+* **Base: 60 raw points total (10 points per week)**
+    * Complete weekly hands-on tasks related to class content.
+    * Private submissions earn up to 10 raw points each based on quality and completeness.
+* **Bonus: 1.5× multiplier per task**
+    * Make your weekly submissions PUBLIC (blog, GitHub, etc.).
+    * Example: A task earning 10 points privately becomes 15 raw points (10 × 1.5) when shared publicly.
+    * Maximum potential: 90 raw points (15 points × 6 weeks).
+
+**Calculating Weekly Tasks Weighted Score:**
+* Your total raw weekly task score (max 90) is divided by the denominator (60).
+* This result is then multiplied by the category weighting (60 points).
+* Formula: `Weighted Weekly Tasks Score = (Total Raw Weekly Task Points / 60) * 60`
 
 **Examples:**
-* **Scenario 1:** Student submits a private final project meeting all requirements with excellent quality = 20 points.
-* **Scenario 2:** Student creates a public project with good quality (17/20) and includes a live demo = 17 × 1.5 = 25.5 points.
-* **Scenario 3:** Student develops an exceptional public project that exceeds requirements, with detailed documentation and a public repository = 20 × 1.5 = 30 points.
-* **Scenario 4:** Student submits a private project with satisfactory quality (15/20) = 15 points.
+* **Scenario 1:** Student completes all 6 weekly tasks privately with excellent quality (10/10 raw for each) = 60 raw points. Weighted Score: (60/60)*60 = **60 points**.
+* **Scenario 2:** Student completes 5 private tasks (8/10 raw quality each = 40 raw points) and makes 1 submission public (7/10 raw quality × 1.5 = 10.5 raw points). Total Raw: 50.5 points. Weighted Score: (50.5/60)*60 = **50.5 points**.
+* **Scenario 3:** Student completes 4 private tasks (9/10 raw quality each = 36 raw points) and shares 2 tasks publicly (10/10 raw quality × 1.5 each = 30 raw points). Total Raw: 66 points. Weighted Score: (66/60)*60 = **66 points**.
+* **Scenario 4:** Student publicly shares all 6 weekly tasks with varying quality (7, 8, 10, 9, 10, 8 out of 10 base). Raw Score = (7+8+10+9+10+8) × 1.5 = 52 × 1.5 = 78 raw points. Weighted Score: (78/60)*60 = **78 points**.
+
+### 3. Final Project (Weighted Contribution: 20 points base, up to 30 points max)
+
+This component has a maximum raw score potential of 30 points (20 points × 1.5), based on a denominator of 20 points and weighted at 20%. You can achieve up to 150% (30/20) in this category, contributing up to 30 points (1.5 × 20) to your final weighted score.
+
+* **Base: 20 raw points**
+    * Create a comprehensive project applying multiple course concepts.
+    * Private submission earns up to 20 raw points based on quality and requirements.
+* **Bonus: 1.5× multiplier**
+    * Make your final project PUBLIC (live demo, public repository, detailed blog).
+    * Example: A project earning 20 points privately becomes 30 raw points (20 × 1.5) when shared publicly.
+
+**Calculating Final Project Weighted Score:**
+* Your total raw final project score (max 30) is divided by the denominator (20).
+* This result is then multiplied by the category weighting (20 points).
+* Formula: `Weighted Final Project Score = (Total Raw Final Project Points / 20) * 20`
+
+**Examples:**
+* **Scenario 1:** Student submits a private final project meeting all requirements with excellent quality = 20 raw points. Weighted Score: (20/20)*20 = **20 points**.
+* **Scenario 2:** Student creates a public project with good quality (17/20 raw base) and includes a live demo. Raw Score = 17 × 1.5 = 25.5 raw points. Weighted Score: (25.5/20)*20 = **25.5 points**.
+* **Scenario 3:** Student develops an exceptional public project that exceeds requirements, with detailed documentation and a public repository (20/20 raw base). Raw Score = 20 × 1.5 = 30 raw points. Weighted Score: (30/20)*20 = **30 points**.
+* **Scenario 4:** Student submits a private project with satisfactory quality (15/20 raw) = 15 raw points. Weighted Score: (15/20)*20 = **15 points**.
 
 ## Summary Table
 
-| Component | Base Points | Optional Bonus | Maximum Points | % of Standard Grade |
-|:----------|:------------|:---------------|:---------------|:--------------------|
-| **Participation** | 20 | Camera on (+5) | 25 | 20% |
-| **Weekly Tasks** | 60 (10×6) | Public sharing (1.5×) | 90 (15×6) | 60% |
-| **Final Project** | 20 | Public sharing (1.5×) | 30 | 20% |
-| **TOTAL** | **100** | **+45** | **145** | **100%** |
+This table shows the base and maximum *weighted points* each component contributes to your final grade (Total Max Weighted Score: 150).
 
-## Combined Scenarios
+| Component       | Base Weighted Pts (Standard Path) | Max Possible Weighted Pts | % of Standard Grade (Weighting) | Max Raw Score / Denominator |
+| :-------------- | :-------------------------------- | :------------------------ | :------------------------------ | :-------------------------- |
+| **Participation** | 20                                | 30                        | 20%                             | 90 / 60                     |
+| **Weekly Tasks** | 60                                | 90                        | 60%                             | 90 / 60                     |
+| **Final Project** | 20                                | 30                        | 20%                             | 30 / 20                     |
+| **TOTAL** | **100** | **150** | **100%** |                             |
 
-**Scenario A: Maximum Engagement**
-* Full attendance with camera on = 25 points
-* All weekly tasks completed with excellence and shared publicly = 90 points
-* Public final project with excellent quality = 30 points
-* Total: 145 points
+## Combined Scenarios (Calculating Total Weighted Score)
 
-**Scenario B: Limited Time but Quality Work**
-* Attended 4 of 6 sessions, camera off = 13.33 points
-* All weekly tasks completed privately with excellence = 60 points
-* Public final project with excellent quality = 30 points
-* Total: 103.33 points
-
-**Scenario C: Private Submissions Focus**
-* Full attendance with camera on = 25 points
-* All weekly tasks completed privately with excellence = 60 points
-* Private final project with excellent quality = 20 points
-* Total: 105 points
-
-**Scenario D: Minimal Attendance, Maximum Public Sharing**
-* Limited attendance (3 sessions, camera off) = 10 points
-* All weekly tasks completed with excellence and shared publicly = 90 points
-* Public final project with excellent quality = 30 points
-* Total: 130 points
+* **Scenario A: Maximum Engagement**
+    * Participation: Full attendance, camera on (Raw=90). Weighted = (90/60)*20 = 30 pts.
+    * Weekly Tasks: All public, excellent (Raw=90). Weighted = (90/60)*60 = 90 pts.
+    * Final Project: Public, excellent (Raw=30). Weighted = (30/20)*20 = 30 pts.
+    * **Total Weighted Score: 30 + 90 + 30 = 150 points.**
+* **Scenario B: Limited Time but Quality Work**
+    * Participation: Attend 4/6, camera off (Raw=40). Weighted = (40/60)*20 = 13.33 pts.
+    * Weekly Tasks: All private, excellent (Raw=60). Weighted = (60/60)*60 = 60 pts.
+    * Final Project: Public, excellent (Raw=30). Weighted = (30/20)*20 = 30 pts.
+    * **Total Weighted Score: 13.33 + 60 + 30 = 103.33 points.**
+* **Scenario C: Private Submissions Focus**
+    * Participation: Full attendance, camera on (Raw=90). Weighted = (90/60)*20 = 30 pts.
+    * Weekly Tasks: All private, excellent (Raw=60). Weighted = (60/60)*60 = 60 pts.
+    * Final Project: Private, excellent (Raw=20). Weighted = (20/20)*20 = 20 pts.
+    * **Total Weighted Score: 30 + 60 + 20 = 110 points.**
+* **Scenario D: Minimal Attendance, Maximum Public Sharing**
+    * Participation: Attend 3/6, camera off (Raw=30). Weighted = (30/60)*20 = 10 pts.
+    * Weekly Tasks: All public, excellent (Raw=90). Weighted = (90/60)*60 = 90 pts.
+    * Final Project: Public, excellent (Raw=30). Weighted = (30/20)*20 = 30 pts.
+    * **Total Weighted Score: 10 + 90 + 30 = 130 points.**
 
 ## Grading Philosophy
 
 Our flexible scoring system is designed to:
+1.  **Provide multiple paths to success** - You can achieve a standard "A" (90+ weighted points) through various combinations, including focusing on private submissions with excellent quality.
+2.  **Reward engagement** - Camera usage enhances class interaction and is rewarded, acknowledging the value of full presence.
+3.  **Build your portfolio** - Public sharing of work helps build your professional presence and is significantly incentivized.
+4.  **Accommodate different comfort levels** - Choose whether to keep submissions private or make them public based on your preference.
 
-1. **Provide multiple paths to success** - You can achieve a standard "A" (100%) through private submissions with excellent quality
-2. **Reward engagement** - Camera usage enhances class interaction and community
-3. **Build your portfolio** - Public sharing of work helps build your professional presence
-4. **Accommodate different comfort levels** - Choose whether to keep submissions private or make them public
-
-The bonus opportunities are intentionally substantial to encourage sharing knowledge with the broader community while respecting that some students may prefer to keep their work private.
+The bonus opportunities (camera-on, public sharing) are intentionally substantial, allowing you to potentially earn up to 150 weighted points, far exceeding the standard 100 points. This structure encourages sharing knowledge while respecting privacy choices.
 
 ## Final Grade Calculation
 
-While you can earn up to 145 points, final letter grades will be calculated based on these thresholds:
+Your final letter grade is determined by your **total weighted score**, calculated as described above. While you can earn up to 150 weighted points, the standard path (full private participation and submissions) yields 100 points.
 
-* **A**: 90-100+ points
-* **B**: 80-89 points
-* **C**: 70-79 points
-* **D**: 60-69 points
+* **A**: 90 - 150 points
+* **B**: 80 - 89 points
+* **C**: 70 - 79 points
+* **D**: 60 - 69 points
 * **F**: Below 60 points
 
-**Note:** Points earned beyond 100 will be noted as "bonus points" on your transcript but don't change the maximum grade of A.
+**Note:** While scores above 100 reflect exceptional engagement and contribution, the maximum letter grade awarded is A.
 
 ## Frequently Asked Questions (FAQ)
 
 ### 1. Why is camera usage encouraged and rewarded?
 
-We encourage camera usage because this course is designed as an interactive learning community. When everyone dedicates their time to being fully present, the entire class benefits. 
-
-The camera-on points reflect our appreciation for students who fully commit their time and attention to our shared learning experience. This course includes many code-along sessions and hands-on exercises, and being visibly present helps create an engaged atmosphere.
-
-It's completely understandable that you may have reasons to keep your camera off at times. That's why our scoring system is flexible - you can still achieve an excellent grade by excelling in other components even if you prefer not to use your camera.
+We encourage camera usage because this course thrives on interaction. Being visibly present helps create an engaged atmosphere, especially during code-alongs and hands-on exercises. The bonus points (5 raw points per class) reflect appreciation for this commitment. However, we understand reasons for keeping cameras off. The flexible system allows you to achieve an excellent grade (even 100+ points) without ever turning on your camera by excelling in tasks and the project.
 
 ### 2. What counts as "public sharing" for the weekly tasks and final project?
 
@@ -136,21 +156,20 @@ Public sharing means making your work accessible outside the classroom in a prof
 * A blog post explaining your approach and code
 * A publicly accessible demo or website
 * A presentation video shared on platforms like YouTube
-
 The key is that others outside our class can learn from and engage with your work.
 
 ### 3. Can I still get an A without attending all classes?
 
 Absolutely! The scoring system is intentionally flexible. For example:
-* If you attend no classes (0/20 points) but complete all weekly tasks privately with excellence (60 points) and create an exceptional public final project (30 points), you would earn 90 points - enough for an A.
+* If you attend **no classes** (Participation Raw=0, Weighted=0 points), but complete all weekly tasks **privately** with excellence (Weekly Raw=60, Weighted=60 points), and create an exceptional **public** final project (Project Raw=30, Weighted=30 points), your total weighted score would be 0 + 60 + 30 = **90 points**, which earns an A.
 * You can mix and match how you earn points based on your strengths and preferences.
 
 ### 4. What if I have technical issues during a class session?
 
 Technical difficulties happen. If you experience camera issues, internet problems, or other technical challenges:
-* Document the issue when it occurs
-* Communicate with the instructor as soon as possible
-* We'll work with you to ensure you aren't unfairly penalized for technical problems outside your control
+* Document the issue when it occurs (screenshot, etc.).
+* Communicate with the instructor as soon as possible.
+* We'll work with you to ensure you aren't unfairly penalized for technical problems outside your control, especially concerning participation points.
 
 ### 5. How detailed do my weekly submissions need to be?
 
@@ -159,30 +178,28 @@ Weekly submissions are evaluated based on:
 * Code quality and organization
 * Thoroughness in addressing the assignment requirements
 * Creativity and effort beyond the minimum requirements
-
-Higher scores are awarded to submissions that demonstrate mastery of the concepts and attention to detail.
+Higher raw scores (up to 10 for private, influencing the 1.5x multiplier for public) are awarded to submissions that demonstrate mastery of the concepts and attention to detail.
 
 ### 6. What makes a final project "excellent" versus "satisfactory"?
 
-An excellent final project typically:
+An excellent final project typically earns close to the maximum base raw score (20 points) before the public multiplier. It generally:
 * Applies multiple course concepts correctly and creatively
 * Demonstrates technical proficiency and attention to detail
 * Includes thorough documentation
 * Shows originality and practical application
 * Functions as intended without significant bugs or issues
-
-A satisfactory project meets the basic requirements but may lack the polish, complexity, or creativity of an excellent submission.
+A satisfactory project meets the basic requirements but may lack the polish, complexity, or creativity, thus earning a lower base raw score (e.g., 14-16 out of 20).
 
 ### 7. Are late submissions accepted?
 
 We understand that unexpected circumstances arise. Please communicate with the instructor as early as possible about potential late submissions. In general:
-* Late submissions may be accepted with appropriate communication
-* Extremely late work or submissions without prior notice may receive reduced points
-* Consistent patterns of late work may impact your ability to earn full points
+* Late submissions may be accepted with appropriate communication.
+* Extremely late work or submissions without prior notice may receive reduced raw points.
+* Consistent patterns of late work may impact your ability to earn full points.
 
 ### 8. How do I submit my work?
 
 Detailed submission instructions will be provided for each assignment. Typically:
-* Private submissions will be through the course learning management system
-* Public submissions should include a link to your public work (repository, blog, etc.)
-* Always follow the specific submission guidelines for each assignment
+* Private submissions will be through the course learning management system.
+* Public submissions should include a link(s) to your public work (repository, blog, demo, etc.) submitted via the LMS.
+* Always follow the specific submission guidelines for each assignment.
