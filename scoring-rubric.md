@@ -133,15 +133,11 @@ The bonus opportunities (camera-on, public sharing) are intentionally substantia
 
 ## Final Grade Calculation
 
-Your final letter grade is determined by your **total weighted score**, calculated as described above. While you can earn up to 150 weighted points, the standard path (full private participation and submissions) yields 100 points.
+Your final grade is determined by your **total weighted score**, calculated as described above. While you can earn up to 150 weighted points, the standard path (full private participation and submissions) yields 100 points.
 
-* **A**: 90 - 150 points
-* **B**: 80 - 89 points
-* **C**: 70 - 79 points
-* **D**: 60 - 69 points
-* **F**: Below 60 points
+This course adheres to Universitas Indonesia's grading system for final grade determination.
 
-**Note:** While scores above 100 reflect exceptional engagement and contribution, the maximum letter grade awarded is A.
+**Note:** While scores above 100 reflect exceptional engagement and contribution, the maximum possible weighted score is 150 points.
 
 ## Frequently Asked Questions (FAQ)
 
@@ -158,10 +154,10 @@ Public sharing means making your work accessible outside the classroom in a prof
 * A presentation video shared on platforms like YouTube
 The key is that others outside our class can learn from and engage with your work.
 
-### 3. Can I still get an A without attending all classes?
+### 3. Can I still get a high score without attending all classes?
 
 Absolutely! The scoring system is intentionally flexible. For example:
-* If you attend **no classes** (Participation Raw=0, Weighted=0 points), but complete all weekly tasks **privately** with excellence (Weekly Raw=60, Weighted=60 points), and create an exceptional **public** final project (Project Raw=30, Weighted=30 points), your total weighted score would be 0 + 60 + 30 = **90 points**, which earns an A.
+* If you attend **no classes** (Participation Raw=0, Weighted=0 points), but complete all weekly tasks **privately** with excellence (Weekly Raw=60, Weighted=60 points), and create an exceptional **public** final project (Project Raw=30, Weighted=30 points), your total weighted score would be 0 + 60 + 30 = **90 points**.
 * You can mix and match how you earn points based on your strengths and preferences.
 
 ### 4. What if I have technical issues during a class session?
