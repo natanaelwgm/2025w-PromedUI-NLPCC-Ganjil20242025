@@ -1,0 +1,18 @@
+# .gitignore
+
+# Jekyll build artifacts and caches
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby gems cache and bundler files
+vendor/bundle/
+.bundle/
+Gemfile.lock
+
+# Other common ignores
+*.gem
+*.rbc
+*.swp
+.DS_Store 

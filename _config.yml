@@ -1,0 +1,14 @@
+# _config.yml
+
+# Site Settings
+title: Demystifying the Digital Sky - An Introduction to Cloud Computing
+description: "An introductory guide to cloud computing concepts (IaaS, PaaS, SaaS, Public/Private/Hybrid), benefits, and concerns."
+
+# Theme Selection (Primer is the default GitHub look and feel)
+theme: jekyll-theme-primer
+
+# Optional: You can add your GitHub username if you want the theme's footer links to work
+# github_username: your-github-username
+
+# Optional: Add Google Analytics ID if you use it
+# google_analytics: UA-XXXXXXXXX-X 
