@@ -1,0 +1,67 @@
+<nav class="site-nav">
+  <div class="nav-container">
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <div class="nav-links">
+      <a class="page-link" href="{{ site.baseurl }}/">Home</a>
+      <a class="page-link" href="{{ site.baseurl }}/scoring-rubric.html">Scoring Rubric</a>
+      <a class="page-link" href="{{ site.baseurl }}/class1-outline.html">Class 1</a>
+      <!-- Add more links as classes become available -->
+      <!-- <a class="page-link" href="{{ site.baseurl }}/class2-outline.html">Class 2</a> -->
+      <!-- <a class="page-link" href="{{ site.baseurl }}/class3-outline.html">Class 3</a> -->
+      <!-- <a class="page-link" href="{{ site.baseurl }}/class4-outline.html">Class 4</a> -->
+      <!-- <a class="page-link" href="{{ site.baseurl }}/class5-outline.html">Class 5</a> -->
+      <!-- <a class="page-link" href="{{ site.baseurl }}/class6-outline.html">Class 6</a> -->
+    </div>
+  </div>
+</nav>
+
+<style>
+  .site-nav {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #e9ecef;
+  }
+  
+  .nav-container {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 0 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .site-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .page-link {
+    color: #0366d6;
+    text-decoration: none;
+  }
+  
+  .page-link:hover {
+    text-decoration: underline;
+  }
+  
+  @media (max-width: 768px) {
+    .nav-container {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    
+    .nav-links {
+      margin-top: 10px;
+      flex-wrap: wrap;
+    }
+  }
+</style> 
