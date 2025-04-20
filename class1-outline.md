@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Class 1 - Introduction to Computing & the Cloud
+title: Class 1 - Intro to NLP and Why We Need Cloud
 ---
 
-# Class 1: Introduction to Computing & the Cloud
+# Class 1: Intro to NLP and Why We Need Cloud
 
 ## Pre-Class Reading Materials
 
