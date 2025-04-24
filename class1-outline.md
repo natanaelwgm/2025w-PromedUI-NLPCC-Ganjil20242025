@@ -94,4 +94,4 @@ Please take some time to explore these tools before our first class. Don't worry
 
 ## Assignment
 
-* TO BE CONFIRMED
+*   [View Class 1 Assignment Details](./class1-assignment.md)
