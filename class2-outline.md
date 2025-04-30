@@ -21,7 +21,8 @@ We'll cover the practical aspects and work through simple examples in class.
 
 You can find the materials and recording for Class 2 here: [Link](https://1drv.ms/f/s!AhVxHmatz-M7jelRwZGyZihrAh0F_Q?e=cAVUZ0)
 
-*   **Live Coding Notebook:** You can view the Jupyter Notebook from the live coding session here: [Link](https://github.com/natanaelwgm/2025w-PromedUI-NLPCC-Ganjil20242025/blob/main/nlpcc_2025_week2_livecoding.ipynb)
+*   **Live Coding Simple Regex Email Checker (HTML):** View the simple email finder webpage here: [Link](https://github.com/natanaelwgm/2025w-PromedUI-NLPCC-Ganjil20242025/blob/main/nlpcc2025-week2-regex-email-checker.html)
+*   **Live Coding Notebook (Jupyter):** You can view the Jupyter Notebook from the live coding session here: [Link](https://github.com/natanaelwgm/2025w-PromedUI-NLPCC-Ganjil20242025/blob/main/nlpcc_2025_week2_livecoding.ipynb)
 
 ## Recommended Reading (Jurafsky & Martin)
 
