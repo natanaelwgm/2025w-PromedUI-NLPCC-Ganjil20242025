@@ -7,6 +7,14 @@ title: Class 1 - Intro to NLP and Why We Need Cloud
 
 [Link to Week 1 Presentation](https://drive.google.com/file/d/10v31mP6EA5kx8ItQcPfiRpI8mjod0O-0/view?usp=sharing)
 
+## Class 1 Materials
+
+All materials for Class 1, including slides, readings, and recording, can be found at the following link:
+
+[Class 1 Materials Folder](https://1drv.ms/f/s!AhVxHmatz-M7jelQDGAX5JKgCjeufw?e=tX3Spg)
+
+---
+
 # Pre-Class Reading List: Getting Started with Essential Tools
 
 Welcome! To help you get the most out of this course, we recommend familiarizing yourself with the following tools beforehand. These platforms will be valuable for learning, collaboration, and completing assignments.
