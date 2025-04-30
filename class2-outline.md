@@ -12,6 +12,7 @@ This document outlines the topics for our second class meeting and provides reco
 Tomorrow, we will dive into some foundational NLP techniques:
 
 *   **Regular Expressions (Regex):** Powerful tools for pattern matching in text. (Module: [Link](https://1drv.ms/b/s!AhVxHmatz-M7jelViMEFPgq82MBNxw?e=xvIy20))
+    *   **Tool Tip:** Check out [Regex101](https://regex101.com/) - it's a super cool interactive tool for building and testing regular expressions!
 *   **Basic Entity Tagging (Named Entity Recognition - NER):** Identifying and categorizing key information (like names, places, organizations) in text. (Module: [Link](https://1drv.ms/b/s!AhVxHmatz-M7jelX5QCLPJXS_NKcdw?e=dwwfRC))
 
 We'll cover the practical aspects and work through simple examples in class.
