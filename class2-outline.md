@@ -15,7 +15,7 @@ Tomorrow, we will dive into some foundational NLP techniques:
     *   **Tool Tip:** Check out [Regex101](https://regex101.com/) - it's a super cool interactive tool for building and testing regular expressions!
 *   **Basic Entity Tagging (Named Entity Recognition - NER):** Identifying and categorizing key information (like names, places, organizations) in text. (Module: [Link](https://1drv.ms/b/s!AhVxHmatz-M7jelX5QCLPJXS_NKcdw?e=dwwfRC))
 
-We'll cover the practical aspects and work through simple examples in class.
+We'll cover the practical aspects and work through simple examples in class. 
 
 ## Class 2 Materials & Recording
 
@@ -42,6 +42,12 @@ To get a head start or review materials effectively, we highly recommend explori
 *   **Cool Feature:** Generate an audio overview (like a mini-podcast) of your uploaded sources – great for listening on the go!
 
 Consider uploading the relevant Jurafsky chapters or other readings into NotebookLM to experiment with this tool.
+
+*   **Also Recommended: Google Gemini AI Studio:** Another powerful tool from Google.
+    *   **Link:** [https://aistudio.google.com/](https://aistudio.google.com/)
+    *   **Cost:** Free to use.
+    *   **Model Access:** Provides access to advanced models like Gemini 2.5 Pro (as demonstrated during our live coding session).
+    *   **Important Note:** Be aware that your usage data might be used by Google for model training purposes.
 
 ## Podcast Prep Materials
 
