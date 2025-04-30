@@ -53,3 +53,8 @@ To help you prepare specifically for tomorrow's discussion on Regex and Entity T
 
 Listening to these can be a quick way to familiarize yourself with the core ideas before class.
 
+## Assignment
+
+*   The assignment for Class 2 will be posted by Thursday (May 1, 2025) evening.
+*   Check back here or watch for an announcement with the details.
+*   The assignment will build on the concepts covered in this class session.
