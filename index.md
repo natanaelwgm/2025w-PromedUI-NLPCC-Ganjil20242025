@@ -26,7 +26,7 @@ His background includes data analysis for sub-national budgets, economic modelin
   * Learn why media teams run NLP in the cloud
   * Survey end-to-end NLP use cases in media
 
-* **Class 2: Traditional Text Cleaning & Regex**
+* [Class 2: Traditional Text Cleaning & Regex](class2-outline.md)
   * Master building blocks of any NLP pipeline
   * Apply regular expressions to clean transcripts
   * Work with tokenization, normalization, and word counts
