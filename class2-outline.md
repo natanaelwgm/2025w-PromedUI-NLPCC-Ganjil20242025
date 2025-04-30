@@ -16,6 +16,10 @@ Tomorrow, we will dive into some foundational NLP techniques:
 
 We'll cover the practical aspects and work through simple examples in class.
 
+## Class 2 Materials & Recording
+
+You can find the materials and recording for Class 2 here: [Link](https://1drv.ms/f/s!AhVxHmatz-M7jelRwZGyZihrAh0F_Q?e=cAVUZ0)
+
 ## Recommended Reading (Jurafsky & Martin)
 
 For more formal background and deeper reading, these topics are covered well in the Jurafsky & Martin "Speech and Language Processing" textbook (3rd Edition):
