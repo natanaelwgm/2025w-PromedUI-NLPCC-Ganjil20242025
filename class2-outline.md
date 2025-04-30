@@ -49,6 +49,3 @@ To help you prepare specifically for tomorrow's discussion on Regex and Entity T
 
 Listening to these can be a quick way to familiarize yourself with the core ideas before class.
 
----
-
-**Reminder:** Please prioritize submitting your Class 1 assignment first! We look forward to seeing you tomorrow to discuss Regex and Entity Tagging. 
