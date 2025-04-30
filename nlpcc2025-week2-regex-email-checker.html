@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email (.com) Finder</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start; /* Align to top */
+            min-height: 100vh;
+        }
+        .container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            max-width: 700px;
+            width: 100%;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 25px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #555;
+        }
+        textarea {
+            width: 100%;
+            min-height: 150px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 1rem;
+            box-sizing: border-box; /* Include padding and border in element's total width and height */
+            margin-bottom: 15px;
+        }
+        button {
+            display: block;
+            width: 100%;
+            padding: 12px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 1.1rem;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            margin-bottom: 20px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #results {
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+        }
+        #results h2 {
+            margin-top: 0;
+            color: #333;
+            font-size: 1.2rem;
+        }
+        #results p {
+            color: #666;
+        }
+        #results ul {
+            list-style: none;
+            padding: 0;
+        }
+        #results li {
+            background-color: #e9f5ff;
+            border: 1px solid #cce0ff;
+            padding: 8px 12px;
+            margin-bottom: 8px;
+            border-radius: 4px;
+            font-family: monospace; /* Good for showing code/email like text */
+            word-break: break-all; /* Prevent long emails from overflowing */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Cari Email Format [text]@[text].com</h1>
+
+        <label for="inputText">Masukkan Teks Anda:</label>
+        <textarea id="inputText" placeholder="Ketik atau tempel teks di sini..."></textarea>
+
+        <button onclick="findEmails()">Cari Email</button>
+
+        <div id="results">
+            <h2>Hasil:</h2>
+            <p>Hasil pencarian akan muncul di sini.</p>
+            <!-- Results will be dynamically inserted here -->
+        </div>
+    </div>
+
+    <script>
+        function findEmails() {
+            const inputText = document.getElementById('inputText').value;
+            const resultsDiv = document.getElementById('results');
+
+            // Clear previous results
+            resultsDiv.innerHTML = '<h2>Hasil:</h2>'; // Keep the heading
+
+            // Regex pattern for [text]@[text].com
+            // \b             : Word boundary
+            // [a-zA-Z0-9_.-]+: Username part (letters, numbers, underscore, dot, hyphen)
+            // @              : Literal @
+            // [a-zA-Z0-9-]+  : Domain name part (letters, numbers, hyphen)
+            // \.             : Literal dot (escaped)
+            // com            : Literal "com"
+            // \b             : Word boundary
+            // g              : Global flag (find all matches, not just the first)
+            const emailPattern = /\b[a-zA-Z0-9_.-]+@[a-zA-Z0-9-]+\.com\b/g;
+
+            const matches = inputText.match(emailPattern);
+
+            if (matches && matches.length > 0) {
+                let resultHTML = `<p>Ditemukan ${matches.length} email dengan format [text]@[text].com:</p><ul>`;
+                matches.forEach(email => {
+                    // Basic escaping to prevent HTML injection if email contains < or >
+                    const safeEmail = email.replace(/</g, "&lt;").replace(/>/g, "&gt;");
+                    resultHTML += `<li>${safeEmail}</li>`;
+                });
+                resultHTML += '</ul>';
+                resultsDiv.innerHTML += resultHTML; // Append results after the heading
+            } else {
+                resultsDiv.innerHTML += '<p>Tidak ditemukan email dengan format [text]@[text].com dalam teks yang Anda masukkan.</p>';
+            }
+        }
+    </script>
+</body>
+</html>
