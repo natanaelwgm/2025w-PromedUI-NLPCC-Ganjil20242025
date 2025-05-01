@@ -88,13 +88,18 @@ This is just one example structure; feel free to pursue other analysis types!
 
 **Examples (inspired by our live coding & beyond):**
 
-*   **Simple Named Entity Recognition (NER):** Use regex to identify potential names (e.g., capitalized words after titles like 'Mr.', 'Presiden') or locations (e.g., words following 'di', 'ke'). List the unique entities found.
-*   **Co-occurrence Analysis:** Find documents (tweets, articles, emails) where multiple entities (e.g., different politicians' names found via regex) appear together. You could visualize this as a simple network graph showing who is mentioned with whom.
-*   **Frequency Analysis:** Track how often certain patterns (e.g., specific keywords, monetary values, date formats) appear across different documents or over time (if timestamps are available). Create simple bar charts or tables.
-*   **Basic Topic Frequency:** Use regex to find keywords related to certain topics (e.g., 'vaksin', 'bantuan', 'ekonomi' in the COVID data). Count how often these topic keywords appear.
-*   **Targeted Sentiment Snippets:** Find sentences containing specific patterns (e.g., mentions of a particular policy or person) and analyze the sentiment expressed in just those sentences (you could use a simple pre-built sentiment library or even just manually label a few as positive/negative/neutral).
+*   **Simple Named Entity Recognition (NER):** Use regex to identify potential names (e.g., capitalized words after titles like 'Mr.', 'Presiden') or locations (e.g., words following 'di', 'ke'). List the unique entities found and their frequencies.
+*   **Co-occurrence Analysis:** Find documents (tweets, articles, emails) where multiple entities (e.g., different politicians' names found via regex) appear together. You could visualize this as a simple network graph or a co-occurrence matrix.
+*   **Frequency Analysis:** Track how often certain patterns (e.g., specific keywords, monetary values, date formats, email domains) appear across different documents or categories (like spam vs. ham).
+*   **Temporal Trend Analysis:** If your data has timestamps (like the Tweets or News datasets), use regex to find mentions of specific events, people, or topics, and plot their frequency over time to see trends.
+*   **Basic Topic Frequency:** Use regex to find keywords related to certain topics (e.g., 'vaksin', 'bantuan', 'ekonomi' in the COVID data; or 'debat', 'koalisi', 'kampanye' in the election data). Count how often these topic keywords appear, perhaps comparing frequencies across different time periods or sources.
+*   **Targeted Sentiment Snippets:** Find sentences containing specific patterns (e.g., mentions of a particular policy, person, or product) and analyze the sentiment expressed in just those sentences (you could use a simple pre-built sentiment library or even just manually label a few as positive/negative/neutral for comparison).
+*   **URL/Hashtag Analysis:** Extract all URLs or hashtags using regex. Analyze the most common domains (e.g., `.com`, `.id`, `.org`), top-level domains, or the most frequent hashtags.
+*   **Stylistic Feature Comparison:** Use regex to identify stylistic features (e.g., excessive punctuation `!!!` or `???`, ALL CAPS words, common spam phrases like "klik di sini", specific emoticons). Compare the frequency of these features between different categories (e.g., spam vs. ham emails).
+*   **Quote Extraction & Analysis:** Use regex to pull out text enclosed in quotation marks. Analyze the content or length of these quotes.
+*   **Source/Author Pattern Analysis:** In datasets with author/source info (like News), use regex to categorize articles (e.g., based on mentioned entities or topics) and see if different sources focus on different patterns.
 
-**Formal Terms (for your further research):** The techniques above relate to concepts like *Named Entity Recognition (NER)*, *Co-occurrence Networks / Association Analysis*, *Frequency Distribution*, *Keyword Extraction*, and *Targeted Sentiment Analysis*.
+**Formal Terms (for your further research):** The techniques above relate to concepts like *Named Entity Recognition (NER)*, *Co-occurrence Networks / Association Analysis*, *Frequency Distribution*, *Temporal Analysis / Time Series Analysis*, *Keyword Extraction*, *Targeted Sentiment Analysis*, *URL Analysis*, *Stylometry / Linguistic Feature Analysis*, and *Quote Detection*.
 
 **How to present:** Clearly explain your downstream analysis goal, show the code used to perform the analysis on your regex results, and present the findings clearly (tables, charts, summaries).
 
