@@ -99,6 +99,7 @@ Using AI as a collaborative tool is a key skill in modern development. Documenti
 
 As outlined in the `scoring-rubric.md` and similar to the first assignment, you can earn bonus points by sharing your work publicly.
 
+*   **The Bonus:** Successfully sharing your work publicly (and notifying the instructors via the submission email) will apply a **1.5x multiplier** to your final assignment score (e.g., a score of 80 becomes 120!).
 *   **How to Share:** Post about your regex exploration on platforms like LinkedIn, a personal blog, Medium, etc.
 *   **What Counts:** Create a public post discussing your assignment. You could explain one of your interesting search goals, share a tricky regex pattern you figured out, or reflect on what you learned about text patterns. **Simply having the public GitHub repo is not enough for the bonus.**
 *   **Polishing:** Use tools like Gemini to help draft or refine your post!
