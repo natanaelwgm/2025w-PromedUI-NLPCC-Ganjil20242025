@@ -98,10 +98,21 @@ This is just one example structure; feel free to pursue other analysis types!
 *   **Stylistic Feature Comparison:** Use regex to identify stylistic features (e.g., excessive punctuation `!!!` or `???`, ALL CAPS words, common spam phrases like "klik di sini", specific emoticons). Compare the frequency of these features between different categories (e.g., spam vs. ham emails).
 *   **Quote Extraction & Analysis:** Use regex to pull out text enclosed in quotation marks. Analyze the content or length of these quotes.
 *   **Source/Author Pattern Analysis:** In datasets with author/source info (like News), use regex to categorize articles (e.g., based on mentioned entities or topics) and see if different sources focus on different patterns.
+*   **... Or whatever your cool ideas are!** Be creative.
 
 **Formal Terms (for your further research):** The techniques above relate to concepts like *Named Entity Recognition (NER)*, *Co-occurrence Networks / Association Analysis*, *Frequency Distribution*, *Temporal Analysis / Time Series Analysis*, *Keyword Extraction*, *Targeted Sentiment Analysis*, *URL Analysis*, *Stylometry / Linguistic Feature Analysis*, and *Quote Detection*.
 
 **How to present:** Clearly explain your downstream analysis goal, show the code used to perform the analysis on your regex results, and present the findings clearly (tables, charts, summaries).
+
+---
+
+## Idea Consultation (Optional but Encouraged!)
+
+Feeling stuck or want to brainstorm ideas for your search goals or downstream analysis? You are welcome and encouraged to discuss your ideas with the instructor!
+
+*   This is **not** considered cheating; it's part of the learning process.
+*   Reach out via email or other designated channels.
+*   **Consultation Deadline:** Please aim to have these discussions **before Monday, May 5th, 2025, 23:59 WIB**. The instructor may not be available for detailed idea discussion after this time.
 
 ---
 
