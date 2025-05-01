@@ -82,7 +82,7 @@ Want to take your exploration further and earn extra credit? Go beyond just *fin
     *   Goal 3: Find mentions of "Anies" (with varying regex complexity).
     *   Goal 4: Find mentions of "Ganjar" (with varying regex complexity).
     *   Goal 5: Find mentions of "Gibran" (with varying regex complexity).
-*   **Downstream Analysis:** Then, use the results from all 5 goals to perform a co-occurrence analysis (which politicians are mentioned together in the same text).
+**Downstream Analysis:** Then, use the results from all 5 goals to perform a co-occurrence analysis (which politicians are mentioned together in the same text).
 
 This is just one example structure; feel free to pursue other analysis types! (Btw don't use that because that was our example in live coding)
 
