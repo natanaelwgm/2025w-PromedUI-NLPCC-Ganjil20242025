@@ -65,6 +65,7 @@ Listening to these can be a quick way to familiarize yourself with the core idea
 
 ## Assignment
 
-*   The assignment for Class 2 will be posted by Thursday (May 1, 2025) evening.
-*   Check back here or watch for an announcement with the details.
+*   The assignment for Class 2 is now available: **[Class 2 Assignment: Regex Explorations](./class2-assignment.md)**
+*   Please refer to the assignment page for full details, datasets, submission instructions, and the evaluation rubric.
+*   The deadline is **Tuesday, May 6th, 2025, at 23:55 PM Jakarta Time (WIB)** (confirm date on assignment page).
 *   The assignment will build on the concepts covered in this class session.
