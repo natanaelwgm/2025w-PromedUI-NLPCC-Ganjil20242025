@@ -76,15 +76,15 @@ Want to take your exploration further and earn extra credit? Go beyond just *fin
 
 **Important Clarification:** You only need to implement **one** meaningful downstream analysis task to be eligible for these bonus points. You do *not* need a separate analysis for each of your 5 regex goals.
 
-**Suggestion:** You might find it easier to design your 5 regex search goals so they contribute to a single, combined downstream analysis. For example, like in our live coding session:
+**Example from Week 2 class:** You might find it easier to design your 5 regex search goals so they contribute to a single, combined downstream analysis. For example, like in our live coding session:
     *   Goal 1: Find mentions of "Jokowi" (with varying regex complexity).
     *   Goal 2: Find mentions of "Prabowo" (with varying regex complexity).
     *   Goal 3: Find mentions of "Anies" (with varying regex complexity).
     *   Goal 4: Find mentions of "Ganjar" (with varying regex complexity).
     *   Goal 5: Find mentions of "Gibran" (with varying regex complexity).
-    *   **Downstream Analysis:** Then, use the results from all 5 goals to perform a co-occurrence analysis (which politicians are mentioned together in the same text).
+*   **Downstream Analysis:** Then, use the results from all 5 goals to perform a co-occurrence analysis (which politicians are mentioned together in the same text).
 
-This is just one example structure; feel free to pursue other analysis types!
+This is just one example structure; feel free to pursue other analysis types! (Btw don't use that because that was our example in live coding)
 
 **Examples (inspired by our live coding & beyond):**
 
