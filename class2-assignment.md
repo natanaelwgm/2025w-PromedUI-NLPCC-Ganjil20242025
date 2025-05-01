@@ -68,6 +68,26 @@ Your task is to use Python (specifically the `re` library) within a notebook env
 
 ---
 
+## Optional: Downstream Analysis (Up to +20 Extra Points)
+
+Want to take your exploration further and earn extra credit? Go beyond just *finding* patterns with regex and *use* those findings for some simple downstream analysis. This is highly encouraged and will contribute significantly to your score (potentially exceeding 100 points before the public sharing bonus!).
+
+**The Idea:** Use the information you extracted using your regex patterns as input for another layer of analysis within your notebook. 
+
+**Examples (inspired by our live coding & beyond):**
+
+*   **Simple Named Entity Recognition (NER):** Use regex to identify potential names (e.g., capitalized words after titles like 'Mr.', 'Presiden') or locations (e.g., words following 'di', 'ke'). List the unique entities found.
+*   **Co-occurrence Analysis:** Find documents (tweets, articles, emails) where multiple entities (e.g., different politicians' names found via regex) appear together. You could visualize this as a simple network graph showing who is mentioned with whom.
+*   **Frequency Analysis:** Track how often certain patterns (e.g., specific keywords, monetary values, date formats) appear across different documents or over time (if timestamps are available). Create simple bar charts or tables.
+*   **Basic Topic Frequency:** Use regex to find keywords related to certain topics (e.g., 'vaksin', 'bantuan', 'ekonomi' in the COVID data). Count how often these topic keywords appear.
+*   **Targeted Sentiment Snippets:** Find sentences containing specific patterns (e.g., mentions of a particular policy or person) and analyze the sentiment expressed in just those sentences (you could use a simple pre-built sentiment library or even just manually label a few as positive/negative/neutral).
+
+**Formal Terms (for your further research):** The techniques above relate to concepts like *Named Entity Recognition (NER)*, *Co-occurrence Networks / Association Analysis*, *Frequency Distribution*, *Keyword Extraction*, and *Targeted Sentiment Analysis*.
+
+**How to present:** Clearly explain your downstream analysis goal, show the code used to perform the analysis on your regex results, and present the findings clearly (tables, charts, summaries).
+
+---
+
 ## Use of AI Tools (Encouraged!)
 
 Remember the tools we discussed in Class 2, like **Google Gemini AI Studio** ([https://aistudio.google.com/](https://aistudio.google.com/))? You are highly encouraged to use these AI tools to help you with this assignment!
@@ -119,8 +139,9 @@ Your assignment will be evaluated based on the following rubric. Aim for the "Ex
 | **4. Code Quality & Clarity**      | 20        | Python code (`re` library) is correct, efficient, well-commented where needed. Notebook is very well-organized.                 | Code mostly works but might be inefficient or unclear. Notebook organization is acceptable but could be improved.     | Code has significant errors, is very unclear, or doesn't use the `re` library appropriately. Notebook is messy. |
 | **5. Results & Presentation**      | 20        | Results for *each* regex step are clearly shown and easy to interpret. Final notebook outputs are saved and visible.            | Most results are shown, but presentation might be unclear for some steps. Final outputs might require re-running. | Results are missing for many steps, poorly presented, or final notebook outputs are not saved.      |
 | **6. Dataset Choice/Justification**| 10        | Uses one of the provided datasets (automatic points) **OR** uses a custom dataset with clear, concise justification provided. | *N/A*                                                                                                                   | Uses a custom dataset with weak/missing justification.                                            |
+| **7. Downstream Analysis**         | **+20**   | *(Optional Bonus)* Meaningful downstream analysis performed using regex results. Well-explained and clearly presented.            | *(Optional Bonus)* Basic downstream analysis attempted, but may be simplistic or presentation unclear.                 | No downstream analysis attempted.                                                                 |
 
-**Total:**                         | **100**   | Meeting these criteria thoroughly and demonstrating thoughtful exploration will lead to a full score. Don't forget the optional public sharing for potential bonus points on top! |                                                                                                         |                                                                                                   |
+**Total:**                         | **100 (+20)** | The base score is out of 100. Meeting criteria 1-6 thoroughly leads to 100. Excellent Downstream Analysis (Criteria 7) can add up to 20 bonus points, for a maximum of 120 (before the 1.5x public sharing multiplier). |                                                                                                         |                                                                                                   |
 
 ---
 
