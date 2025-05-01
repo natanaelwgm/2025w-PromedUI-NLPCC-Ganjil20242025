@@ -68,6 +68,20 @@ Your task is to use Python (specifically the `re` library) within a notebook env
 
 ---
 
+## Use of AI Tools (Encouraged!)
+
+Remember the tools we discussed in Class 2, like **Google Gemini AI Studio** ([https://aistudio.google.com/](https://aistudio.google.com/))? You are highly encouraged to use these AI tools to help you with this assignment!
+
+*   **Brainstorming Search Goals:** Ask AI for ideas on interesting patterns to look for in your chosen dataset.
+*   **Generating Regex Patterns:** Use AI to help you draft initial regex patterns or suggest refinements.
+*   **Debugging Code:** If your Python code or regex isn't working, ask AI for help debugging.
+*   **Explaining Concepts:** If you're unsure about a regex concept, ask AI for an explanation.
+*   **Improving Explanations:** Use AI to help you write clearer explanations in your notebook.
+
+Using AI as a collaborative tool is a key skill in modern development. Documenting how you used AI (e.g., prompts you used, how AI helped) in your notebook is welcome, though not mandatory.
+
+---
+
 ## Deadline and Submission
 
 *   **Deadline:** Tuesday, May 6th, 2025, at 23:55 PM Jakarta Time (WIB). 
