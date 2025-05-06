@@ -22,7 +22,6 @@ Before we can effectively classify text, it needs to be properly prepared. We'll
 * **Tokenization:** Breaking text into words or sub-word units.
 * **Normalization:** Standardizing text (e.g., lowercasing, stemming, lemmatization).
 * **N-grams:** Sequences of N words, useful features for many NLP tasks.
-    (Module for Preprocessing Review: [Link - *Placeholder for consolidated Preprocessing Module/Notes*])
 
 We'll cover the practical aspects and work through examples in class.
 
