@@ -7,13 +7,13 @@ title: Class 3 - Assignment
 
 Building on our introduction to Text Classification, this assignment challenges you to apply these concepts to a dataset of your choice, train multiple models, and leverage AI tools for data generation and analysis.
 
-This assignment is designed for you to be creative and dive deep into the practical aspects of text classification. The core tasks are defined, but we strongly encourage you to explore unique datasets, experiment with various models, and make extensive use of AI assistants.
+This assignment is designed for you to be creative and dive deep into the practical aspects of text classification. The core tasks are defined, but we strongly encourage you to explore unique datasets, experiment with various models, and make extensive use of AI assistants, all within a Google Colab environment.
 
 ---
 
 ## Task: End-to-End Text Classification Project
 
-Your mission is to find a suitable text dataset, train classification models, generate new test data using an LLM, evaluate your models, and present your findings.
+Your mission is to find a suitable text dataset, train classification models, generate new test data using an LLM, evaluate your models, and present your findings. **All work should be completed in a Google Colab notebook, which will then be saved to your GitHub repository, similar to the workflow in Week 1 and Week 2.**
 
 1.  **Find Your Text Classification Dataset on Kaggle:**
     * Go to [Kaggle](https://www.kaggle.com/).
@@ -27,7 +27,7 @@ Your mission is to find a suitable text dataset, train classification models, ge
     * Download the dataset and include a brief justification in your notebook for why you chose it. If it's not a well-known public dataset, please provide a link or instructions on how to access it.
 
 2.  **Train Classification Models:**
-    * Using Python and libraries like Scikit-learn, train **at least two different classification models** on your chosen dataset.
+    * Using Python and libraries like Scikit-learn within your Colab notebook, train **at least two different classification models** on your chosen dataset.
     * You can use models discussed in class, such as **Naive Bayes** and **Logistic Regression**.
     * **Higher scores (see rubric) will be awarded for thoughtfully implementing and comparing more than two distinct models or for experimenting with more advanced techniques** (e.g., Support Vector Machines, simple Neural Networks, different text vectorization methods like TF-IDF beyond basic CountVectorizer).
     * Document your model training process, including any preprocessing steps (tokenization, normalization, vectorization), hyperparameter choices (if any), and why you chose your models.
@@ -37,7 +37,7 @@ Your mission is to find a suitable text dataset, train classification models, ge
     * For each generated sample, instruct the LLM to also provide the **correct label** according to the classes in your dataset.
         * *Example:* If your dataset is about book genres, ask the LLM to "Generate 100 short book snippets (2-3 sentences each) and label each with one of the following genres: \[list your dataset's genres]."
     * Carefully review the LLM-generated data for quality and relevance. You may need to refine your prompts to get good results.
-    * **Crucially, you MUST provide clear documentation of your interaction with the AI for this specific task.** This includes your prompts, the AI's responses, and any iterative refinement process. This can be in the form of screenshots of your chat history, a shared link to the conversation (if the platform supports it, e.g., ChatGPT's share link feature), or a detailed log in your notebook.
+    * **Crucially, you MUST provide clear documentation of your interaction with the AI for this specific task.** This includes your prompts, the AI's responses, and any iterative refinement process. This can be in the form of screenshots of your chat history, a shared link to the conversation (if the platform supports it, e.g., ChatGPT's share link feature), or a detailed log in your Colab notebook.
     * Store these 100 generated samples and their labels as your new test set.
 
 4.  **Model Prediction and Evaluation:**
@@ -61,18 +61,18 @@ Your mission is to find a suitable text dataset, train classification models, ge
         * As mandated, for generating the new test dataset.
     * Documenting your prompts and how AI assisted you is **mandatory for the AI-Powered Test Data Generation step (see point 3 above)**. For other uses of AI in this assignment, documenting your interaction (e.g., prompts used, how AI helped) in your notebook is good practice and welcome, though not mandatory for grading.
 
-7.  **Document in a Notebook:**
-    * Perform all your work in a single Python notebook (`.ipynb`).
+7.  **Document in a Google Colab Notebook:**
+    * Perform all your work in a single **Google Colab notebook** (`.ipynb` file).
     * Use markdown cells for clear explanations of each step: dataset selection, preprocessing, model training, AI data generation (including prompts **and AI interaction logs/history for this part**), evaluation, and your conclusions.
-    * Include all code cells, ensuring their outputs (tables, plots, accuracy scores) are visible in the submitted notebook.
+    * Include all code cells, ensuring their outputs (tables, plots, accuracy scores) are visible in the submitted notebook. (Remember to "Save" your Colab notebook to ensure outputs are stored before downloading or pushing to GitHub).
     * Structure your notebook logically so it tells the story of your project.
 
 8.  **Save and Add to Your GitHub Repo:**
-    * Save your notebook (e.g., `class3_text_classification.ipynb`).
-    * Place this `.ipynb` file inside your existing `nlpcc-ui-2025` repository.
-    * Add, commit, and push your notebook to GitHub.
+    * Save your completed Google Colab notebook as an `.ipynb` file.
+    * Place this `.ipynb` file inside your existing `nlpcc-ui-2025` GitHub repository.
+    * Add, commit, and push your notebook to GitHub. Ensure the version on GitHub is the one with all your work and visible outputs.
 
-**Goal:** This assignment aims to give you hands-on experience with the entire text classification pipeline, from data acquisition to model evaluation, while emphasizing creative problem-solving and the strategic use of AI tools as collaborators.
+**Goal:** This assignment aims to give you hands-on experience with the entire text classification pipeline, from data acquisition to model evaluation, while emphasizing creative problem-solving and the strategic use of AI tools as collaborators, all within the Google Colab environment.
 
 ---
 
@@ -108,7 +108,7 @@ If you're stuck on choosing a dataset, selecting models, or prompting an LLM eff
 * **Email Contents:**
     * Send an email to **both** `natanael.waraney@ui.ac.id` and `natanaelmassie2009@gmail.com`.
     * The subject line should be: `[NLPCC-UI 2025] Class 3 Assignment - Your Name - Student Number`.
-    * The email body **must** contain a direct link to your `nlpcc-ui-2025` GitHub repository (specifically linking to the notebook is helpful, but linking the repo is mandatory).
+    * The email body **must** contain a direct link to your `nlpcc-ui-2025` GitHub repository (specifically linking to the Colab notebook `.ipynb` file within the repository is helpful, but linking the repo is mandatory).
     * If you are aiming for the public sharing bonus, also include a direct link to your public post (LinkedIn, blog, etc.) in the same email.
 * **Important:** Submissions are graded based on the work pushed to GitHub *and* the notification email being received by the deadline.
 
@@ -133,7 +133,7 @@ As outlined in the `scoring-rubric.md`, you can earn a **1.5x multiplier** on yo
 | **2. Model Training** | 20        | **Successfully implements and thoughtfully compares more than two distinct classification models (or two models with significant exploration of variations/tuning).** Clear explanation of model choices, training process, and rationale for choices. | At least two distinct models correctly implemented and trained. Explanations are adequate but may lack depth or full clarity on choices. | Fewer than two models, or significant errors in model implementation/training. Poor explanations.     |
 | **3. AI Test Data Generation**| 20        | Successfully generated 100 relevant test samples with labels using an LLM. Prompts included, data quality is good, and **AI interaction history for generation is clearly documented.** | Generated 100 samples, but relevance/quality might vary, or prompts/AI interaction documentation is partially incomplete. Some issues with labels. | Failed to generate appropriate test data, data is irrelevant/low quality, or process/AI interaction not documented. |
 | **4. Evaluation & Plotting** | 20        | Accurate calculation and clear presentation of model accuracies on AI-generated data. Insightful plotting of results and thoughtful comparison.                             | Accuracies calculated, but presentation, plotting, or comparison could be improved. Minor errors in calculation or interpretation. | Inaccurate or missing evaluation. Plots are unclear, misleading, or absent.                         |
-| **5. Notebook & Code Quality**| 10        | Notebook is exceptionally well-organized, code is clean, efficient, and well-commented. All outputs are visible and easy to understand.             | Notebook is generally well-organized, code is functional. Some areas could be clearer or better documented.        | Notebook is disorganized, code is messy or has significant errors. Outputs missing or unclear.      |
+| **5. Notebook & Code Quality**| 10        | Google Colab Notebook is exceptionally well-organized, code is clean, efficient, and well-commented. All outputs are visible and easy to understand.             | Google Colab Notebook is generally well-organized, code is functional. Some areas could be clearer or better documented.        | Notebook is disorganized (or not a Colab notebook as instructed), code is messy or has significant errors. Outputs missing or unclear.      |
 | **6. Creativity & AI Use (General)** | 10        | Demonstrates significant creativity in dataset/model choices or analysis. Shows thoughtful and extensive use of AI tools beyond the mandatory data generation part. | Some creativity shown. AI tools used appropriately, but general integration could be deeper or more innovative.                | Little to no creativity. Minimal or ineffective general use of AI tools.                                      |
 | **7. Breadth of Exploration** | **+20** | *(Optional Bonus)* Project demonstrates significant breadth by deeply exploring **multiple suggested areas** (e.g., several additional models, detailed error analysis, multiple advanced metrics). Findings are well-explained and add substantial value. | *(Optional Bonus)* Project explores **at least one suggested area** meaningfully. Presentation/explanation is clear.    | No significant breadth of exploration attempted, or exploration is superficial.                                                                       |
 
@@ -141,4 +141,4 @@ As outlined in the `scoring-rubric.md`, you can earn a **1.5x multiplier** on yo
 
 ---
 
-Good luck with your text classification projects! Embrace the challenge, be creative, and don't hesitate to lean on AI as your powerful assistant.
+Good luck with your text classification projects! Embrace the challenge, be creative, and don't hesitate to lean on AI as your powerful assistant. Remember to conduct your work in Google Colab and submit the `.ipynb` file to your GitHub.
