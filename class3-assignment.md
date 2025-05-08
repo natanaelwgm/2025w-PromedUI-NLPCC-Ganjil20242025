@@ -15,7 +15,7 @@ This assignment is designed for you to be creative and dive deep into the practi
 
 Your mission is to find a suitable text dataset, train classification models, generate new test data using an LLM, evaluate your models, and present your findings. **All work should be completed in a Google Colab notebook, which will then be saved to your GitHub repository, similar to the workflow in Week 1 and Week 2.**
 
-1.  **Find Your Text Classification Dataset on Kaggle:**
+Step 1.  **Find Your Text Classification Dataset on Kaggle:**
     * Go to [Kaggle](https://www.kaggle.com/).
     * Search for text classification datasets. You can use search terms like "news classification," "book genre classification," "sentiment analysis dataset," "text categorization," etc.
     * After searching, filter the results by selecting "Datasets."
@@ -34,13 +34,13 @@ Your mission is to find a suitable text dataset, train classification models, ge
 > *   **Stay Updated:** Kaggle hosts competitions on cutting-edge problems, helping you stay abreast of the latest trends and techniques in AI and ML.
 > *   **Build Your Portfolio:** Successfully working with Kaggle datasets and participating in the community can be a valuable addition to your data science portfolio.
 
-2.  **Train Classification Models:**
+Step 2.  **Train Classification Models:**
     * Using Python and libraries like Scikit-learn within your Colab notebook, train **at least two different classification models** on your chosen dataset.
     * You can use models discussed in class, such as **Naive Bayes** and **Logistic Regression**.
     * **Higher scores (see rubric) will be awarded for thoughtfully implementing and comparing more than two distinct models or for experimenting with more advanced techniques** (e.g., Support Vector Machines, simple Neural Networks, different text vectorization methods like TF-IDF beyond basic CountVectorizer).
     * Document your model training process, including any preprocessing steps (tokenization, normalization, vectorization), hyperparameter choices (if any), and why you chose your models.
 
-3.  **AI-Powered Test Data Generation:**
+Step 3.  **AI-Powered Test Data Generation:**
     * Use a Large Language Model (LLM) like **Google Gemini** or **ChatGPT** to generate **100 new, unique text samples** relevant to the classification task of your chosen dataset.
     * For each generated sample, instruct the LLM to also provide the **correct label** according to the classes in your dataset.
         * *Example:* If your dataset is about book genres, ask the LLM to "Generate 100 short book snippets (2-3 sentences each) and label each with one of the following genres: \[list your dataset's genres]."
@@ -58,18 +58,18 @@ Your mission is to find a suitable text dataset, train classification models, ge
 >     *   **Simulating Rare Events:** It's useful for creating data for scenarios that are rare or dangerous to collect in the real world.
 > While powerful, it's also important to be mindful of the quality and potential biases in LLM-generated data, as you've been asked to reflect on in the optional exploration tasks!
 
-4.  **Model Prediction and Evaluation:**
+Step 4.  **Model Prediction and Evaluation:**
     * Use each of your trained models to predict the labels for the 100 AI-generated text samples.
     * Calculate the **accuracy** (percentage of correctly predicted labels) for each model on this new test set.
     * Present the accuracies in a clear format (e.g., a table).
     * **Plot the accuracies** of your models for a visual comparison (e.g., a bar chart).
 
-5.  **Creativity and Exploration (Encouraged!):**
+Step 5.  **Creativity and Exploration (Encouraged!):**
     * **Be creative!** The more unique your dataset choice and the more insightful your modeling approach, the better.
     * Explore different text preprocessing techniques, feature engineering, or model tuning.
     * Think about the nuances of your chosen dataset and how they might affect model performance.
 
-6.  **Extensive Use of AI Tools (Highly Encouraged!):**
+Step 6.  **Extensive Use of AI Tools (Highly Encouraged!):**
     * Use AI tools (Gemini, ChatGPT, etc.) extensively throughout this assignment:
         * Brainstorming dataset ideas or search terms for Kaggle.
         * Understanding classification algorithms or Scikit-learn functions.
@@ -79,13 +79,13 @@ Your mission is to find a suitable text dataset, train classification models, ge
         * As mandated, for generating the new test dataset.
     * Documenting your prompts and how AI assisted you is **mandatory for the AI-Powered Test Data Generation step (see point 3 above)**. For other uses of AI in this assignment, documenting your interaction (e.g., prompts used, how AI helped) in your notebook is good practice and welcome, though not mandatory for grading.
 
-7.  **Document in a Google Colab Notebook:**
+Step 7.  **Document in a Google Colab Notebook:**
     * Perform all your work in a single **Google Colab notebook** (`.ipynb` file).
     * Use markdown cells for clear explanations of each step: dataset selection, preprocessing, model training, AI data generation (including prompts **and AI interaction logs/history for this part**), evaluation, and your conclusions.
     * Include all code cells, ensuring their outputs (tables, plots, accuracy scores) are visible in the submitted notebook. (Remember to "Save" your Colab notebook to ensure outputs are stored before downloading or pushing to GitHub).
     * Structure your notebook logically so it tells the story of your project.
 
-8.  **Save and Add to Your GitHub Repo:**
+Step 8.  **Save and Add to Your GitHub Repo:**
     * Save your completed Google Colab notebook as an `.ipynb` file.
     * Place this `.ipynb` file inside your existing `nlpcc-ui-2025` GitHub repository.
     * Add, commit, and push your notebook to GitHub. Ensure the version on GitHub is the one with all your work and visible outputs.
