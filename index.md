@@ -31,7 +31,7 @@ His background includes data analysis for sub-national budgets, economic modelin
   * Apply regular expressions to clean transcripts
   * Work with tokenization, normalization, and word counts
 
-* **Class 3: Classical Classification: Sentiment & Topic Tagging**
+* [Class 3: Classical Classification: Sentiment & Topic Tagging](week-3-outline.md)
   * Use pre-trained sentiment analysis APIs
   * Train simple classifiers for content tagging
   * Understand model vs. data trade-offs
