@@ -99,8 +99,8 @@ To help you prepare for our upcoming discussions, listen to these podcast-style 
 
 ## Assignment for Class 3
 
-* **Class 3 Assignment:** Details TBD
-* **Deadline:** TBD
+* **Class 3 Assignment:** [Class 3 - Assignment](class3-assignment.md)
+* **Deadline:** Wednesday, May 14th, 2025, at 23:55 PM Jakarta Time (WIB).
 
 Details for the Class 3 assignment will be announced soon. It will build on the concepts of text classification, sentiment analysis, and the methods discussed in class.
 
