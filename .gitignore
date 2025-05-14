@@ -17,3 +17,5 @@ Gemfile.lock
 *.swp
 .DS_Store
 waranProfile.txt
+
+in_progress/

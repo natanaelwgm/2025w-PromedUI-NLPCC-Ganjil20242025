@@ -36,10 +36,11 @@ His background includes data analysis for sub-national budgets, economic modelin
   * Train simple classifiers for content tagging
   * Understand model vs. data trade-offs
 
-* **Class 4: Semantic Representations & Similarity**
-  * Move beyond counts to meaning with vector representations
-  * Apply fuzzy matching for file management
-  * Build semantic search for media archives
+* **Class 4: Semantic Representations & Embeddings**
+  * Understand vector representations of meaning (embeddings)
+  * Generate and use embeddings via APIs (e.g., Gemini, OpenAI)
+  * Implement semantic similarity and basic semantic search
+  * Discuss applications and ethical considerations of embeddings
 
 * **Class 5: Large Language Models & Generative AI**
   * Master prompt engineering for media tasks
