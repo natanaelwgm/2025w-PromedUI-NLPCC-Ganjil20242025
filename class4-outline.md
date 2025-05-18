@@ -287,11 +287,11 @@ To help you prepare for our discussions on embeddings, listen to these podcast-s
     *   English Version: [Link - *Placeholder, TBD*]
     *   Bahasa Indonesia Version: [Link - *Placeholder, TBD*]
 
-*(Links will be provided via email/course platform before class)*
+*(Links will be provided via email before class)*
 
 ## Assignment for Class 4
 
 *   **Class 4 Assignment:** [Class 4 - Assignment: Exploring Text Embeddings](./class4-assignment.md)
-*   **Deadline:** Tuesday, May 21st, 2025, at 23:55 PM Jakarta Time (WIB).
+*   **Deadline:** Friday, May 23rd, 2025, at 23:55 PM Jakarta Time (WIB).
 
 The assignment will involve hands-on practice with generating and using text embeddings. 
