@@ -49,7 +49,7 @@ Once you have your synthetic dataset, the next step is to convert your text data
 1.  **Choose an Embedding Model:**
     * Select an embedding model to use. You can choose from:
         * **API-based models (mandatory):**
-            * OpenAI API (use whats shown in class; refer to `class4-outline.md` for details on OpenAI's embedding documentation)
+            * OpenAI API (use what's shown in class; refer to `openai_embedding_ref.pdf` for details on OpenAI's embedding documentation)
         * **Open-source models (Bonus Opportunity):** Explore using pre-trained models from libraries like Sentence Transformers, or even classical methods like TF-IDF if you want to compare. However, the API based one is mandatory and must be done first.
 2.  **Generate Embeddings:**
     * For each text sample in your synthetic dataset, generate its embedding vector using your chosen model.
@@ -58,7 +58,7 @@ Once you have your synthetic dataset, the next step is to convert your text data
 
 ### Task 3: Embedding Analysis
 
-With your text data now represented as embeddings, perform **at least one** of the following analyses. The live coding session (`nlpcc25_livecoding_week4.ipynb`) demonstrated some of these techniques (e.g., smart search, clustering). Refer also to OpenAI's embedding documentation or the Gemini API tutorials linked in `class4-outline.md` for more ideas.
+With your text data now represented as embeddings, perform **at least one** of the following analyses. The live coding session (`nlpcc25_livecoding_week4.ipynb`) demonstrated some of these techniques (e.g., smart search, clustering). Refer also to OpenAI's embedding documentation (details in `openai_embedding_ref.pdf`) or the Gemini API tutorials linked in `class4-outline.md` for more ideas.
 
 1.  **Choose ONE Analysis (minimum):**
     * **A. Semantic Search (Smart Search):**
