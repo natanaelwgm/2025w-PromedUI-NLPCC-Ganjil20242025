@@ -37,9 +37,9 @@ We'll cover the conceptual underpinnings and work through practical examples of 
 
 ## Class 4 Materials & Recording
 
-*   **Class 4 Slides:** [Link - *Placeholder, TBD after class*]
-*   **Full Recording:** [Link - *Placeholder, will be updated after class*]
-*   **Live Coding Examples (Python Notebook):** [Link - *Placeholder for Class 4 Live Coding Notebook, e.g., `nlpcc25_livecoding_week4.ipynb`*]
+*   **Class 4 Slides:** [Link](./nlpcc-w4-v4.pdf)
+*   **Full Recording:** [Link to OneDrive](https://1drv.ms/f/s!AhVxHmatz-M7jepCveewGL2nGFyFPQ?e=pbMusQ)
+*   **Live Coding Examples (Python Notebook):** [Link](./nlpcc_2025_week4.ipynb)
 
 ## Pre-Class Reading List: Understanding and Using Embeddings
 
@@ -279,13 +279,12 @@ Understand how OpenAI's API provides embeddings and their common use cases.
 *   **OpenAI Playground ([https://platform.openai.com/playground](https://platform.openai.com/playground)):**
     *   While primarily for chat models, you can use it to ask questions about OpenAI's embedding models or related concepts.
 
-## Podcast Prep Materials (Bilingual: English & Bahasa Indonesia!)
+## Podcast Prep Materials
 
-To help you prepare for our discussions on embeddings, listen to these podcast-style audio summaries. They will focus on key concepts from Jurafsky Chapter 6 and the practical aspects of using embedding APIs.
+To help you prepare for our discussions on embeddings, listen to this podcast-style audio summary. It will focus on key concepts from Jurafsky Chapter 6 and the practical aspects of using embedding APIs.
 
-*   **Podcasts for Main Topics (Embeddings, Vector Semantics, APIs - based on Jurafsky Ch 6 & API Docs):**
-    *   English Version: [Link - *Placeholder, TBD*]
-    *   Bahasa Indonesia Version: [Link - *Placeholder, TBD*]
+*   **Podcast for Main Topics (Embeddings, Vector Semantics, APIs - based on Jurafsky Ch 6 & API Docs):**
+    *   [Link to OneDrive](https://1drv.ms/f/s!AhVxHmatz-M7jepCveewGL2nGFyFPQ?e=pbMusQ)
 
 *(Links will be provided via email before class)*
 
