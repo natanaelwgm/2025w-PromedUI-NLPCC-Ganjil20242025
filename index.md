@@ -36,13 +36,13 @@ His background includes data analysis for sub-national budgets, economic modelin
   * Train simple classifiers for content tagging
   * Understand model vs. data trade-offs
 
-* **Class 4: Semantic Representations & Embeddings**
+* [Class 4: Semantic Representations & Embeddings](class4-outline.md)
   * Understand vector representations of meaning (embeddings)
   * Generate and use embeddings via APIs (e.g., Gemini, OpenAI)
   * Implement semantic similarity and basic semantic search
   * Discuss applications and ethical considerations of embeddings
 
-* **Class 5: Large Language Models & Generative AI**
+* [Class 5: Large Language Models & Generative AI](class5-outline.md)
   * Master prompt engineering for media tasks
   * Implement summarization and translation workflows
   * Create generative storyboarding solutions
