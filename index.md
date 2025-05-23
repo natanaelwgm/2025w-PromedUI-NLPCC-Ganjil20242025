@@ -47,7 +47,7 @@ His background includes data analysis for sub-national budgets, economic modelin
   * Implement summarization and translation workflows
   * Create generative storyboarding solutions
 
-* **Class 6: Advanced Frontier: Chatbots, Multi-Modal & Agentic Models**
+* [Class 6: Advanced Frontier: Chatbots, Multi-Modal & Agentic Models](class6-outline.md)
   * Build interactive media assistants
   * Combine text and visual analysis
   * Design agentic pipelines for media workflow automation
