@@ -42,9 +42,9 @@ We'll cover the conceptual underpinnings, drawing from Jurafsky Ch. 10, and work
 
 ## Class 5 Materials & Recording
 
-*   **Class 5 Slides:** [Link - *Placeholder, TBD*]
-*   **Full Recording:** [Link - *Placeholder, will be updated after class*]
-*   **Live Coding Examples (Python Notebook):** [Link - *Placeholder for Class 5 Live Coding Notebook*]
+*   **Class 5 Slides:** [https://1drv.ms/f/s!AhVxHmatz-M7jepJAIg_-Im_6eegHQ?e=9yLlNB](https://1drv.ms/f/s!AhVxHmatz-M7jepJAIg_-Im_6eegHQ?e=9yLlNB)
+*   **Full Recording:** [https://1drv.ms/f/s!AhVxHmatz-M7jepJAIg_-Im_6eegHQ?e=9yLlNB](https://1drv.ms/f/s!AhVxHmatz-M7jepJAIg_-Im_6eegHQ?e=9yLlNB)
+*   **Live Coding Examples (Python Notebook):** [nlpcc_2025_week5_livecoding.ipynb](./nlpcc_2025_week5_livecoding.ipynb)
 
 ## Pre-Class Reading List: Understanding & Using LLMs
 
@@ -97,7 +97,6 @@ These tools will be invaluable for experimenting with LLMs and prompt engineerin
 
 ## Assignment for Class 5
 
-*   **Class 5 Assignment:** [Class 5 - Assignment: LLM & Generative AI Explorations - *Placeholder, TBD*](./class5-assignment.md)
-*   **Deadline:** Tuesday, May 28th, 2025, at 23:55 PM Jakarta Time (WIB). (To be confirmed on assignment page).
+*   **Class 5 Assignment:** (Combined with Week 6's)
 
 Details for the Class 5 assignment will be announced soon. It will involve hands-on practice in using LLMs for various media production tasks, focusing on prompt engineering, API interaction, and output analysis, drawing heavily on the concepts from Jurafsky Chapter 10 and in-class demonstrations.

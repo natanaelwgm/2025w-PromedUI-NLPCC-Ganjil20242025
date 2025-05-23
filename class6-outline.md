@@ -7,7 +7,7 @@ title: Class 6 - Chatbots, Multi-Modal & Agentic Models
 
 This document outlines the topics for our sixth and final core content class meeting and provides recommended materials to review beforehand. We'll be looking at the cutting edge of NLP and AI.
 
-### Preview for Class 6 (e.g., Wednesday, May 28th, 2025)
+### Preview for Class 6 (e.g., Friday, May 23rd, 2025)
 
 This week, we venture into the advanced frontiers of AI, exploring how systems can converse, understand multiple types of information, and act autonomously to solve complex tasks.
 
@@ -34,9 +34,9 @@ We'll cover conceptual frameworks, key technologies, and discuss practical appli
 ---
 ## Class 6 Materials & Recording
 
-* **Class 6 Slides:** [Link - *Placeholder, TBD*]
-* **Full Recording:** [Link - *Placeholder, will be updated after class*]
-* **Live Coding Examples (Python Notebook):** [Link - *Placeholder for Class 6 Live Coding Notebook*]
+* **Class 6 Slides:** [https://1drv.ms/f/s!AhVxHmatz-M7jepO7RBE4GI7fovF4A?e=g6eXN8](https://1drv.ms/f/s!AhVxHmatz-M7jepO7RBE4GI7fovF4A?e=g6eXN8)
+* **Full Recording:** [https://1drv.ms/f/s!AhVxHmatz-M7jepO7RBE4GI7fovF4A?e=g6eXN8](https://1drv.ms/f/s!AhVxHmatz-M7jepO7RBE4GI7fovF4A?e=g6eXN8)
+* **Live Coding Examples (Python Notebook):** [./nlpcc_2025_week5_livecoding.ipynb](./nlpcc_2025_week5_livecoding.ipynb)
 
 ---
 ## Pre-Class Reading List: Diving into the Frontier 🚀
