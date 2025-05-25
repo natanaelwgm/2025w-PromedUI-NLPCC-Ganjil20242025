@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Final Project - The NLP Media Innovator's Pitch!
+title: Final Project - The NLP Innovator's Pitch!
 ---
 
-# Final Project: The NLP Media Innovator's Pitch!
+# Final Project: The NLP Innovator's Pitch!
 
-Alright everyone, we've journeyed through the fundamentals of Natural Language Processing, explored powerful cloud tools, and seen how these can revolutionize media production. Now, it's time to bring it all together for your **Final Project!**
+Alright everyone, we've journeyed through the fundamentals of Natural Language Processing, explored powerful cloud tools, and seen how these technologies can revolutionize various industries and solve real-world problems. Now, it's time to bring it all together for your **Final Project!**
 
-This is your chance to think like an entrepreneur, a product manager, and an innovator. You'll be conceptualizing and pitching a product, feature, or application that leverages NLP (and potentially cloud tools) to solve a real problem or create a new opportunity within the media landscape.
+This is your chance to think like an entrepreneur, a product manager, and an innovator. You'll be conceptualizing and pitching a product, feature, or application that leverages NLP (and potentially cloud tools) to solve a real problem or create a new opportunity in any domain that interests you.
 
 ## The Goal
 
-Your mission is to design and pitch an innovative solution that showcases your understanding of NLP concepts and their practical application in media. Think big, be creative, and demonstrate how technology can reshape how media is created, managed, or consumed.
+Your mission is to design and pitch an innovative solution that showcases your understanding of NLP concepts and their practical application to solve real-world problems. Think big, be creative, and demonstrate how NLP technology can reshape how people work, communicate, learn, or live.
 
 ## Deliverables
 
@@ -55,8 +55,7 @@ Your pitch deck and presentation must cover the following components. Think of t
 
 As you scroll, you'll find detailed guidance for each checklist item.
 
-<details>
-<summary><strong>I. The Hook & The Big Idea (Checklist Items 1.1 - 1.3)</strong></summary>
+#### **I. The Hook & The Big Idea (Checklist Items 1.1 - 1.3)**
 
 *   `[ ]` **Checklist Item 1.1: Project Title / Product Name:**
     *   **Guidance:** Choose something memorable, relevant, and ideally, catchy. This is the first thing your audience sees.
@@ -66,28 +65,22 @@ As you scroll, you'll find detailed guidance for each checklist item.
     *   **Guidance:** Concisely answer:
         *   *What is your product/feature?*
         *   *Who is it for (target user)?*
-        *   *What core problem in media production does it solve?*
+        *   *What core problem does it solve?*
         *   *What's the key benefit or unique "magic" it offers?*
-    *   *Example: "Our project, 'ScriptSight AI,' is an NLP-powered pre-production tool for independent animation studios. It uses character interaction analysis and emotional arc tracking to help writers identify pacing issues and strengthen narrative engagement, ultimately saving weeks of costly revisions."*
+    *   *Example: "Our project, 'MoodMentor AI,' is an NLP-powered mental health companion app for university students. It uses sentiment analysis and conversational AI to provide personalized emotional support and early intervention suggestions, helping students manage stress and improve their wellbeing during critical academic periods."*
 
-</details>
-
-<details>
-<summary><strong>II. The Problem & The Opportunity (Checklist Items 2.1 - 2.4)</strong></summary>
+#### **II. The Problem & The Opportunity (Checklist Items 2.1 - 2.4)**
 
 *   `[ ]` **Checklist Item 2.1: Problem Statement:**
-    *   **Guidance:** Clearly define the specific pain point or unmet need in the media production world that your solution addresses. Why is this problem significant? Who feels this pain most acutely? Use relatable examples.
+    *   **Guidance:** Clearly define the specific pain point or unmet need that your solution addresses. Why is this problem significant? Who feels this pain most acutely? Use relatable examples from any domain (healthcare, education, business, social good, etc.).
 *   `[ ]` **Checklist Item 2.2: Target User / Customer Persona:**
-    *   **Guidance:** Be specific! "Media professionals" is too broad. Is it for "freelance podcast editors specializing in narrative shows," "social media managers for indie game studios," or "student filmmakers working on short documentaries"? Describe their relevant workflows, frustrations, and goals.
+    *   **Guidance:** Be specific! "Everyone" or "professionals" is too broad. Is it for "non-technical small business owners managing customer inquiries," "college students struggling with information overload," or "elderly individuals trying to stay connected with family"? Describe their relevant workflows, frustrations, and goals.
 *   `[ ]` **Checklist Item 2.3: Market Opportunity (Simplified for Class):**
-    *   **Guidance:** Briefly explain why this problem is worth solving. Is the target user base significant or growing? Why is *now* a good time for your NLP-driven solution (e.g., new NLP advancements, cloud accessibility, changing media trends)?
+    *   **Guidance:** Briefly explain why this problem is worth solving. Is the target user base significant or growing? Why is *now* a good time for your NLP-driven solution (e.g., new NLP advancements, cloud accessibility, changing user behaviors, emerging needs)?
 *   `[ ]` **Checklist Item 2.4: Existing Alternatives / Competition:**
     *   **Guidance:** How do your target users currently try to solve this problem (even if it's manual, inefficient, or with a different type of tool)? Are there any direct or indirect competitors? What are their key limitations that your solution overcomes? This sets up your unique value.
 
-</details>
-
-<details>
-<summary><strong>III. Your Solution (Checklist Items 3.1 - 3.6)</strong></summary>
+#### **III. Your Solution (Checklist Items 3.1 - 3.6)**
 
 *   `[ ]` **Checklist Item 3.1: Proposed Solution - Product/Feature Overview:**
     *   **Guidance:** Clearly describe your product or feature. What does it do at a high level? How does it directly solve the problem for your target user?
@@ -97,31 +90,25 @@ As you scroll, you'll find detailed guidance for each checklist item.
     *   **Guidance:** List and briefly explain 3-5 core features. For each, clearly state the benefit to the user. Focus on features that deliver your USP and solve the core problem.
 *   `[ ]` **Checklist Item 3.4: NLP / AI Core - The "How":**
     *   **Guidance:** This is CRITICAL for the course!
-        *   What *specific* NLP techniques (e.g., sentiment analysis, NER, text classification, summarization, embeddings, LLM prompting for generation/analysis) are central to your solution?
-        *   How do these techniques enable your key features and deliver the value? Be specific (e.g., "We'll use topic modeling on interview transcripts to automatically suggest relevant b-roll footage categories" rather than just "We use AI").
+        *   What *specific* NLP techniques (e.g., sentiment analysis, NER, text classification, summarization, embeddings, LLM prompting for generation/analysis, chatbots, translation) are central to your solution?
+        *   How do these techniques enable your key features and deliver the value? Be specific (e.g., "We'll use named entity recognition to automatically extract key information from legal documents and create searchable summaries" rather than just "We use AI").
 *   `[ ]` **Checklist Item 3.5: Cloud Integration (Conceptual):**
-    *   **Guidance:** Briefly explain how cloud tools/services (e.g., serverless functions for NLP tasks, cloud storage for media assets/embeddings, managed AI/ML services like Google Vertex AI, AWS SageMaker) would be leveraged. Why are these beneficial (scalability, cost, pre-trained models, etc.)?
+    *   **Guidance:** Briefly explain how cloud tools/services (e.g., serverless functions for NLP tasks, cloud storage for data/embeddings, managed AI/ML services like Google Vertex AI, AWS SageMaker, OpenAI API) would be leveraged. Why are these beneficial (scalability, cost, pre-trained models, etc.)?
 *   `[ ]` **Checklist Item 3.6: User Experience (UX) - Mockups / Storyboards / User Flow:**
     *   **Guidance:** Since you're not building the full product, this is ESSENTIAL.
         *   Visually demonstrate how a user would interact with your product/feature. Include simple mockups, wireframes (tools like Figma, Balsamiq, or even clear hand-drawn sketches are fine), or a storyboard illustrating the core user journey.
         *   Focus on clarity and how the UX helps the user achieve their goal with your NLP-powered solution. HCI students, this is a great place for you to shine!
 
-</details>
-
-<details>
-<summary><strong>IV. Impact & Feasibility (Checklist Items 4.1 - 4.3)</strong></summary>
+#### **IV. Impact & Feasibility (Checklist Items 4.1 - 4.3)**
 
 *   `[ ]` **Checklist Item 4.1: Potential Impact / Benefits:**
-    *   **Guidance:** What are the tangible benefits for your target user and potentially the broader media industry? (e.g., saves X hours per project, reduces production costs by Y%, improves creative output quality, enables new forms of storytelling, enhances content accessibility).
+    *   **Guidance:** What are the tangible benefits for your target user and potentially society? (e.g., saves X hours per week, reduces costs by Y%, improves quality of life, enables better decision-making, increases accessibility, enhances learning outcomes).
 *   `[ ]` **Checklist Item 4.2: Success Metrics / KPIs (Conceptual):**
-    *   **Guidance:** If your product were real, how would you know it's successful? Think about 2-3 Key Performance Indicators (e.g., user adoption rate, task completion time, accuracy of NLP-driven suggestions, user satisfaction).
+    *   **Guidance:** If your product were real, how would you know it's successful? Think about 2-3 Key Performance Indicators (e.g., user adoption rate, task completion time, accuracy of NLP-driven suggestions, user satisfaction, problem resolution rate).
 *   `[ ]` **Checklist Item 4.3: Technical Feasibility & Challenges (Briefly):**
-    *   **Guidance:** Beyond the NLP/Cloud aspects, what are other key technical considerations? What are the biggest potential challenges or risks (e.g., acquiring or creating suitable training data for a custom NLP model, ensuring model fairness and avoiding bias, integration with existing media workflows)? Acknowledging these shows critical thinking.
+    *   **Guidance:** Beyond the NLP/Cloud aspects, what are other key technical considerations? What are the biggest potential challenges or risks (e.g., acquiring or creating suitable training data for a custom NLP model, ensuring model fairness and avoiding bias, privacy and security concerns, integration with existing systems)? Acknowledging these shows critical thinking.
 
-</details>
-
-<details>
-<summary><strong>V. The "Why" & Next Steps (Checklist Items 5.1 - 5.4)</strong></summary>
+#### **V. The "Why" & Next Steps (Checklist Items 5.1 - 5.4)**
 
 *   `[ ]` **Checklist Item 5.1: "Why This Team?" / Passion & Skills (Brief):**
     *   **Guidance:** Why is your group passionate about this particular problem and solution? Briefly highlight any relevant skills or perspectives (especially linking MI and HCI strengths) that make your group well-suited to conceptualize this.
@@ -131,8 +118,6 @@ As you scroll, you'll find detailed guidance for each checklist item.
     *   **Guidance:** Briefly recap the core problem, your innovative solution, and its main value proposition. End with a strong, memorable concluding statement.
 *   `[ ]` **Checklist Item 5.4: Q&A Slide:**
     *   **Guidance:** A simple "Thank You & Questions?" slide for the end of your deck. (For the recorded presentation, you can just verbally signify the end).
-
-</details>
 
 ---
 
@@ -146,7 +131,7 @@ Your final project will be evaluated on several dimensions. While a detailed rub
 *   **Idea & Innovation (30 points):**
     *   Originality and creativity of your product/feature concept.
     *   Strength of the problem-solution fit.
-    *   Effective and insightful application of NLP and (conceptual) cloud technologies relevant to media production.
+    *   Effective and insightful application of NLP and (conceptual) cloud technologies to solve real-world problems.
 *   **Pitch Deck & Presentation Execution (30 points):**
     *   Clarity, conciseness, and professionalism of your pitch deck (visuals, organization).
     *   Quality of your recorded presentation (clarity of speech, engagement, flow, timing).
@@ -195,7 +180,7 @@ Want to truly impress and push your project to the next level? These are signifi
 
 ---
 
-This is your capstone project – a chance to be creative, apply what you've learned, and envision the future of media technology. I'm incredibly excited to see what you all come up with!
+This is your capstone project – a chance to be creative, apply what you've learned, and envision how NLP technology can solve real problems and create value in any domain you're passionate about. I'm incredibly excited to see what innovative solutions you all come up with!
 
 Start thinking, start discussing with your potential group members, and don't hesitate to ask clarifying questions during our sessions.
 
