@@ -183,7 +183,7 @@ Want to truly impress and push your project to the next level? These are signifi
 
 ## Submission Details
 
-*   **Final Project Submission Deadline:** **Friday, June 13th, 2025, 23:55 WIB.**
+*   **Final Project Submission Deadline:** **Tuesday, June 3rd, 2025, 18.00 WIB.**
 *   **Submission Method:**
     *   Designate one group member to send a single email to **both** `natanael.waraney@ui.ac.id` and `natanaelmassie2009@gmail.com`.
     *   **Subject Line:** `[NLPCC-UI 2025] Final Project - Group Name/Members`
