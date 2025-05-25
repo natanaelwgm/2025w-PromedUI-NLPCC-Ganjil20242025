@@ -28,7 +28,9 @@ Course materials are added progressively:
 *   **Week 2:** Traditional Text Cleaning & Regex, Basic Entity Tagging ([`class2-outline.md`](class2-outline.md), [`nlpcc2025-week2-regex-email-checker.html`](nlpcc2025-week2-regex-email-checker.html), [`nlpcc_2025_week2_livecoding.ipynb`](nlpcc_2025_week2_livecoding.ipynb), [`class2-assignment.md`](class2-assignment.md)).
 *   **Week 3:** Classical Classification: Sentiment & Topic Tagging ([`class3-outline.md`](class3-outline.md), [`nlpcc25_livecoding_week3.ipynb`](nlpcc25_livecoding_week3.ipynb), [`class3-assignment.md`](class3-assignment.md)).
 *   **Week 4:** Semantic Representations & Embeddings ([`class4-outline.md`](class4-outline.md), [`nlpcc_2025_week4.ipynb`](nlpcc_2025_week4.ipynb), [`class4-assignment.md`](class4-assignment.md)).
-*   **Week 5:** Large Language Models & Generative AI ([`class5-outline.md`](class5-outline.md)). Assignment details forthcoming.
+*   **Week 5:** Large Language Models & Generative AI ([`class5-outline.md`](class5-outline.md), [`nlpcc_2025_week5_livecoding.ipynb`](nlpcc_2025_week5_livecoding.ipynb)).
+*   **Week 6:** Advanced Frontier: Chatbots, Multi-Modal & Agentic Models ([`class6-outline.md`](class6-outline.md), [`nlpcc_2025_week6_livecoding.ipynb`](nlpcc_2025_week6_livecoding.ipynb)).
+*   **Week 5 & 6 Combined Assignment:** Programmatic LLM Applications ([`class56-assignment.md`](class56-assignment.md)).
 *   *(Future weeks will cover topics like Chatbots, Multi-Modal & Agentic Models)*
 
 ## Website & Deployment

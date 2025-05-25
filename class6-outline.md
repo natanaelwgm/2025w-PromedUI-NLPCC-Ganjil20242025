@@ -104,7 +104,6 @@ Continue leveraging these tools for deeper understanding and experimentation.
 ---
 ## Assignment for Class 6
 
-* **Class 6 Assignment:** TBD
-* **Deadline:** TBD.
+* **Class 5 & 6 Combined Assignment:** [class56-assignment.md](class56-assignment.md)
 
-The final assignment will challenge you to design and prototype an application leveraging chatbot, multi-modal, or agentic AI concepts for a media production scenario, likely using one or more of the frameworks discussed.
+This assignment is shared with Class 5 and covers both week's content. It involves building LLM applications including a chat system and tabular data processing, with bonus opportunities to explore advanced features like multimodal AI, agentic systems, or RAG that we discuss in this class. **Deadline:** Friday, June 27th, 2025, at 23:55 PM Jakarta Time (WIB).

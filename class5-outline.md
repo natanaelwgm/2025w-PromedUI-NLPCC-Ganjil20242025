@@ -97,6 +97,6 @@ These tools will be invaluable for experimenting with LLMs and prompt engineerin
 
 ## Assignment for Class 5
 
-*   **Class 5 Assignment:** (Combined with Week 6's)
+*   **Class 5 & 6 Combined Assignment:** [class56-assignment.md](class56-assignment.md)
 
-Details for the Class 5 assignment will be announced soon. It will involve hands-on practice in using LLMs for various media production tasks, focusing on prompt engineering, API interaction, and output analysis, drawing heavily on the concepts from Jurafsky Chapter 10 and in-class demonstrations.
+This assignment combines the work for both Week 5 and Week 6. It involves hands-on practice in using LLMs for various tasks including building a chat application and processing tabular data, with optional advanced features like multimodality, agentic behavior, or RAG. The assignment focuses on prompt engineering, API interaction, and output analysis, drawing heavily on the concepts from Jurafsky Chapter 10 and in-class demonstrations.
