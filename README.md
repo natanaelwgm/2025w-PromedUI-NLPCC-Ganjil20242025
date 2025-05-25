@@ -13,6 +13,7 @@ The repository is organized as follows:
 *   **`index.md`**: The main course homepage built with Jekyll, containing the course description, instructor information, the full course outline, and links to assessment details.
 *   **`classX-outline.md`**: Detailed outlines, pre-reading materials, links to slides/recordings, and assignment information for each class session (e.g., `class1-outline.md`, `class2-outline.md`).
 *   **`classX-assignment.md`**: Specific instructions for weekly assignments (e.g., `class1-assignment.md`).
+*   **`assignments.md`**: Comprehensive overview page listing all course assignments, deadlines, and submission guidelines.
 *   **`scoring-rubric.md`**: Explains the course assessment structure, grading components (participation, weekly tasks, final project), and the optional bonus system for public sharing.
 *   **`nlpcc_*.ipynb` / `*.html`**: Contains code examples, live coding sessions notebooks (like `nlpcc_2025_week2_livecoding.ipynb`), or simple web tools (like `nlpcc2025-week2-regex-email-checker.html`) demonstrated in class.
 *   **`class-materials/`**: (Currently seems empty or contains ignored files) Intended for supplementary readings or resources.
@@ -32,6 +33,8 @@ Course materials are added progressively:
 *   **Week 6:** Advanced Frontier: Chatbots, Multi-Modal & Agentic Models ([`class6-outline.md`](class6-outline.md), [`nlpcc_2025_week6_livecoding.ipynb`](nlpcc_2025_week6_livecoding.ipynb)).
 *   **Week 5 & 6 Combined Assignment:** Programmatic LLM Applications ([`class56-assignment.md`](class56-assignment.md)).
 *   *(Future weeks will cover topics like Chatbots, Multi-Modal & Agentic Models)*
+
+**📋 [View All Assignments & Deadlines](assignments.md)** - Comprehensive overview of all course assignments, submission guidelines, and the final project.
 
 ## Website & Deployment
 

@@ -52,6 +52,10 @@ His background includes data analysis for sub-national budgets, economic modelin
   * Combine text and visual analysis
   * Design agentic pipelines for media workflow automation
 
+## Course Assignments
+
+See the [Course Assignments](assignments.md) page for a comprehensive overview of all weekly assignments and the final project, including deadlines, submission guidelines, and bonus opportunities.
+
 ## Course Assessment
 
 See the [Scoring Rubric](scoring-rubric.md) for detailed information on how this course is assessed, including our flexible scoring system designed to reward engagement and public sharing of work. 
