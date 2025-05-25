@@ -159,7 +159,7 @@ You are required to complete the following two tasks. All work should be done in
         *   `week5_6_task1_chat.ipynb`
         *   `week5_6_task2_tabular.ipynb`
         *   (If you do the bonus, integrate it into one of these files and make sure it's clearly marked).
-2.  **Deadline:** **Friday, June 27th, 2025, at 23:55 PM Jakarta Time (WIB).**
+2.  **Deadline:** **Friday, May 30th, 2025, at 23:55 PM Jakarta Time (WIB).**
 3.  **Notification Email:**
     *   Send an email to **both** `natanael.waraney@ui.ac.id` and `natanaelmassie2009@gmail.com`.
     *   Subject line: `[NLPCC-UI 2025] Week 5-6 Assignment - Your Name - Student Number`.

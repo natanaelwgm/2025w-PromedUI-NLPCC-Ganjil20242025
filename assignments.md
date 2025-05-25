@@ -60,7 +60,7 @@ This page provides a comprehensive overview of all assignments for the Natural L
   - Task 2: LLM-Powered Tabular Data Processing (65 points)
   - Bonus: Advanced features (multimodal, agentic, RAG) (+50 points)
 - **Skills**: API integration, chat interfaces, data processing, advanced AI features
-- **Deadline**: Friday, June 27th, 2025, at 23:55 PM Jakarta Time (WIB)
+- **Deadline**: Friday, May 30th, at 23:55 PM Jakarta Time (WIB)
 - **Note**: This assignment counts as grades for both Week 5 and Week 6
 
 ---
