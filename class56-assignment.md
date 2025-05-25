@@ -27,7 +27,7 @@ Welcome to your combined assignment for Week 5 and Week 6! This assignment is de
 
 ## Core Tasks (Total 100 points for Week 5 & Week 6 each)
 
-You are required to complete the following two tasks. All work should be done in one single Python notebook (`.ipynb`) and submitted to your GitHub repository.
+You are required to complete the following two tasks. All work should be done in one Python notebook (`.ipynb`) each and submitted to your GitHub repository. More details below in submission guidelines part.
 
 ### Task 1: Simple LLM Chat Application (Vanilla Chat) (35 points)
 
