@@ -67,18 +67,21 @@ This page provides a comprehensive overview of all assignments for the Natural L
 
 ## Final Project
 
-### Capstone Project: Advanced NLP Media Application
-**Status**: 🚧 **To Be Determined (TBD)** 🚧
+### The NLP Innovator's Pitch!
+**[Final Project: The NLP Innovator's Pitch!](final-assignment.md)**
 
-The final project will be a comprehensive application that demonstrates mastery of all course concepts. Students will design and implement an end-to-end NLP solution for a media production workflow.
-
-**Expected Components** (subject to change):
-- Integration of multiple NLP techniques learned throughout the course
-- Cloud-based implementation
-- Real-world media application focus
-- Comprehensive documentation and presentation
-
-**Timeline**: Details will be announced later in the semester
+- **Focus**: Design and pitch an innovative NLP-powered solution that solves real-world problems
+- **Format**: Group project (mixed HCI + MI teams)
+- **Key Deliverables**:
+  - Professional pitch deck presentation
+  - 10-15 minute recorded pitch video
+  - Optional: Working MVP demo (+25 points bonus)
+  - Optional: Shareable/testable MVP (+25 points bonus)
+- **Skills**: Product design, NLP application, presentation, entrepreneurial thinking
+- **Group Formation Deadline**: Wednesday, May 28th, 2025, 23:55 WIB
+- **Final Submission Deadline**: Tuesday, June 3rd, 2025, 18:00 WIB
+- **Scoring**: 100 base points + up to 50 bonus points + 1.5x multiplier for public sharing
+- **Note**: This capstone project demonstrates mastery of all course concepts through innovative problem-solving
 
 ---
 
